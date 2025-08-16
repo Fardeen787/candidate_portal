@@ -1,0 +1,1756 @@
+{
+  "ticket_id": "bbc59b842d_Cloud-engineer",
+  "position": "Cloud engineer",
+  "timestamp": "2025-07-24T16:05:05.612241",
+  "job_status": "updated",
+  "requirements_last_updated": "2025-07-24T16:02:32.731680",
+  "latest_requirements": {
+    "experience": "10",
+    "tech_stack": [
+      "teraform",
+      "aws",
+      "gcp",
+      "azure"
+    ],
+    "location": "paris",
+    "salary": "50k to 60k",
+    "deadline": "25-07-2025"
+  },
+  "summary": {
+    "total_resumes": 4,
+    "stage1_selected": 4,
+    "final_selected": 4
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\khan_20250724_160246.pdf",
+        "filename": "khan_20250724_160246.pdf",
+        "final_score": 0.2955,
+        "skill_score": 0.5,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.02090784342740657,
+        "matched_skills": [
+          "aws",
+          "gcp"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ],
+          "gcp": [
+            "gcp"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\rohit_20250724_160232.pdf",
+        "filename": "rohit_20250724_160232.pdf",
+        "final_score": 0.196,
+        "skill_score": 0.25,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.019247897984574595,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\sahil_20250724_160348.pdf",
+        "filename": "sahil_20250724_160348.pdf",
+        "final_score": 0.14,
+        "skill_score": 0.25,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.01608112194742692,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\shubaham_20250724_160313.pdf",
+        "filename": "shubaham_20250724_160313.pdf",
+        "final_score": 0.0,
+        "skill_score": 0.0,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\khan_20250724_160246.pdf",
+        "filename": "khan_20250724_160246.pdf",
+        "final_score": 0.2955,
+        "skill_score": 0.5,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.02090784342740657,
+        "matched_skills": [
+          "aws",
+          "gcp"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ],
+          "gcp": [
+            "gcp"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\rohit_20250724_160232.pdf",
+        "filename": "rohit_20250724_160232.pdf",
+        "final_score": 0.196,
+        "skill_score": 0.25,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.019247897984574595,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\sahil_20250724_160348.pdf",
+        "filename": "sahil_20250724_160348.pdf",
+        "final_score": 0.14,
+        "skill_score": 0.25,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.01608112194742692,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\shubaham_20250724_160313.pdf",
+        "filename": "shubaham_20250724_160313.pdf",
+        "final_score": 0.0,
+        "skill_score": 0.0,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        }
+      }
+    ],
+    "agent_review": "Based on the provided candidates' information:\n\n1. Khan:\n   - Overall Score: 29.5%\n   - Skills Match: 50.0% (2/4) - Missing skills: teraform, azure\n   - Experience: 2 years (Score: 20.0%)\n   - Location Match: No\n   - Professional Development: Has 3 professional certifications but not a continuous learner\n   - Decision: Does not meet the requirements due to missing skills (terraform, azure) and location mismatch.\n\n2. Rohit:\n   - Overall Score: 19.6%\n   - Skills Match: 25.0% (1/4) - Missing skills: teraform, gcp, azure\n   - Experience: 2 years (Score: 20.0%)\n   - Location Match: No\n   - Professional Development: Active content creator but not a continuous learner\n   - Decision: Does not meet the requirements due to missing skills (terraform, gcp, azure) and location mismatch.\n\n3. Sahil:\n   - Overall Score: 14.0%\n   - Skills Match: 25.0% (1/4) - Missing skills: teraform, gcp, azure\n   - Experience: 0 years (Score: 0.0%)\n   - Location Match: No\n   - Professional Development: Limited professional development shown, not a continuous learner\n   - Decision: Does not meet the requirements due to missing skills (terraform, gcp, azure) and lack of experience.\n\n4. Shubaham:\n   - Overall Score: 0.0%\n   - Skills Match: 0.0% (0/4) - Missing skills: teraform, aws, gcp, azure\n   - Experience: 0 years (Score: 0.0%)\n   - Location Match: No\n   - Professional Development: Little evidence of continuous learning, not a continuous learner\n   - Decision: Does not meet the requirements due to missing all required skills (terraform, aws, gcp, azure) and lack of experience.\n\nNone of the candidates meet the requirements for the Cloud Engineer position as they all lack the necessary skills (terraform, aws, gcp, azure) and do not have the required experience.",
+    "scoring_criteria": {
+      "skills_required": [
+        "teraform",
+        "aws",
+        "gcp",
+        "azure"
+      ],
+      "experience_range": "10",
+      "location": "paris"
+    },
+    "duplicates_found": 0
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\khan_20250724_160246.pdf",
+        "filename": "khan_20250724_160246.pdf",
+        "final_score": 0.2955,
+        "skill_score": 0.5,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.02090784342740657,
+        "matched_skills": [
+          "aws",
+          "gcp"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ],
+          "gcp": [
+            "gcp"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\rohit_20250724_160232.pdf",
+        "filename": "rohit_20250724_160232.pdf",
+        "final_score": 0.196,
+        "skill_score": 0.25,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.019247897984574595,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\sahil_20250724_160348.pdf",
+        "filename": "sahil_20250724_160348.pdf",
+        "final_score": 0.14,
+        "skill_score": 0.25,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.01608112194742692,
+        "matched_skills": [
+          "aws"
+        ],
+        "detailed_skill_matches": {
+          "aws": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        },
+        "final_rank": 3,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\shubaham_20250724_160313.pdf",
+        "filename": "shubaham_20250724_160313.pdf",
+        "final_score": 0.0,
+        "skill_score": 0.0,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Cloud engineer",
+          "required_skills": [
+            "teraform",
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "required_experience": "10",
+          "location": "paris"
+        },
+        "final_rank": 4,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the requirements for a Cloud Engineer with skills in teraform, aws, gcp, and azure, as well as 10 years of experience and located in Paris, here is the ranking of the candidates:\n\n1. **Candidate 1 (Fardeen Khan)**\n   - **Overall Score:** 29.5%\n   - **Matched Skills:** AWS, GCP\n   - **Missing Skills:** Teraform, Azure\n   - **Experience:** 2 years\n   - **Professional Development Highlights:** Has 3 professional certifications\n   - **Location:** Pune, India (not in Paris)\n   - **Analysis:** While Fardeen Khan has some relevant skills and professional development with certifications, the missing skill in Teraform and location outside Paris are significant drawbacks.\n\n2. **Candidate 2 (Rohit)**\n   - **Overall Score:** 19.6%\n   - **Matched Skills:** AWS\n   - **Missing Skills:** Teraform, GCP, Azure\n   - **Experience:** 2 years\n   - **Professional Development Highlights:** Active content creator\n   - **Location:** Pune, Maharashtra, India (not in Paris)\n   - **Analysis:** Rohit has some experience with AWS and is an active content creator, but the lack of skills in Teraform, GCP, and Azure is a major limitation. Additionally, the location is not Paris.\n\n3. **Candidate 3 (Sahil)**\n   - **Overall Score:** 14.0%\n   - **Matched Skills:** AWS\n   - **Missing Skills:** Teraform, GCP, Azure\n   - **Experience:** 0 years\n   - **Professional Development Highlights:** Active content creator\n   - **Location:** Not specified\n   - **Analysis:** Sahil lacks the required experience and skills in Teraform, GCP, and Azure. The active content creation is a positive aspect, but overall, not a strong fit for the Cloud Engineer role.\n\n4. **Candidate 4 (Shubaham)**\n   - **Overall Score:** 0.0%\n   - **Matched Skills:** None\n   - **Missing Skills:** Teraform, AWS, GCP, Azure\n   - **Experience:** 0 years\n   - **Professional Development Highlights:** None\n   - **Location:** Not specified\n   - **Analysis:** Shubaham does not have any of the required skills or experience for the Cloud Engineer role. Not a suitable candidate based on the given requirements.\n\nConsidering the candidates provided, none of them fully meet the requirements for a Cloud Engineer with skills in teraform, aws, gcp, and azure, 10 years of experience, and located in Paris.",
+    "selection_criteria": "Based on job requirements and professional development",
+    "requirements_version": "2025-07-24T16:02:32.731680"
+  },
+  "qa_review": {
+    "qa_assessment": "The filtering process for the Cloud Engineer position seems to have been thorough. Let's review the requirements and the process:\n\n1. **Skill Requirements Evaluation:**\n   - The skills required were teraform, aws, gcp, and azure. It's essential to verify that the selected candidates possess these skills.\n\n2. **Experience Range Evaluation:**\n   - The experience requirement was set at 10 years. It's crucial to ensure that the selected candidates meet this criterion.\n\n3. **Professional Development Consideration:**\n   - It's positive to see that professional development was considered during the process. This indicates a focus on the growth and improvement of the candidates.\n\n4. **Concerns about the Process:**\n   - The location requirement for Paris was not mentioned in the summary. If location is a critical factor for the role, it should be explicitly stated whether it was considered in the selection process.\n\n5. **Recommendations for Improvement:**\n   - Ensure that all requirements, including location, are explicitly mentioned in the process summary for clarity.\n   - Provide feedback on why certain candidates were selected as top or final candidates to demonstrate transparency in the decision-making process.\n\nOverall, the process seems to have evaluated the key requirements for the Cloud Engineer position. Clarifying the consideration of the location requirement and providing feedback on candidate selection would enhance the transparency and effectiveness of the process.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-24T16:05:05.612241"
+  },
+  "final_top_5": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\khan_20250724_160246.pdf",
+      "filename": "khan_20250724_160246.pdf",
+      "final_score": 0.2955,
+      "skill_score": 0.5,
+      "experience_score": 0.2,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.02090784342740657,
+      "matched_skills": [
+        "aws",
+        "gcp"
+      ],
+      "detailed_skill_matches": {
+        "aws": [
+          "aws"
+        ],
+        "gcp": [
+          "gcp"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "ceh",
+              "cka",
+              "cks"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cloud engineer",
+        "required_skills": [
+          "teraform",
+          "aws",
+          "gcp",
+          "azure"
+        ],
+        "required_experience": "10",
+        "location": "paris"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\rohit_20250724_160232.pdf",
+      "filename": "rohit_20250724_160232.pdf",
+      "final_score": 0.196,
+      "skill_score": 0.25,
+      "experience_score": 0.2,
+      "location_score": 0.0,
+      "professional_development_score": 0.18000000000000002,
+      "similarity_score": 0.019247897984574595,
+      "matched_skills": [
+        "aws"
+      ],
+      "detailed_skill_matches": {
+        "aws": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.18000000000000002,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.9,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "blog"
+            ],
+            "github_activity": null,
+            "blog_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "blog"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cloud engineer",
+        "required_skills": [
+          "teraform",
+          "aws",
+          "gcp",
+          "azure"
+        ],
+        "required_experience": "10",
+        "location": "paris"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\sahil_20250724_160348.pdf",
+      "filename": "sahil_20250724_160348.pdf",
+      "final_score": 0.14,
+      "skill_score": 0.25,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.2,
+      "similarity_score": 0.01608112194742692,
+      "matched_skills": [
+        "aws"
+      ],
+      "detailed_skill_matches": {
+        "aws": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.2,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cloud engineer",
+        "required_skills": [
+          "teraform",
+          "aws",
+          "gcp",
+          "azure"
+        ],
+        "required_experience": "10",
+        "location": "paris"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\shubaham_20250724_160313.pdf",
+      "filename": "shubaham_20250724_160313.pdf",
+      "final_score": 0.0,
+      "skill_score": 0.0,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.0,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cloud engineer",
+        "required_skills": [
+          "teraform",
+          "aws",
+          "gcp",
+          "azure"
+        ],
+        "required_experience": "10",
+        "location": "paris"
+      },
+      "final_rank": 4,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

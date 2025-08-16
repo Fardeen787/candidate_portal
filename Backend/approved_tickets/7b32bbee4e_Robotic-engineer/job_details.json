@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "7b32bbee4e",
+    "source": "chat",
+    "sender": "user_cd83ca71",
+    "user_id": "user_cd83ca71",
+    "subject": "Robotic engineer",
+    "session_id": "de63c498-1fed-4cd4-af46-ce974780ee98",
+    "created_at": "2025-07-27T09:07:30",
+    "last_updated": "2025-07-27T09:38:38",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-27T09:08:30",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "23-09-2025",
+    "employment_type": "Full-time",
+    "experience_required": "8-12",
+    "job_description": "We’re seeking a passionate and skilled Robotics Engineer to join our dynamic team! In this role, you'll design, develop, and implement robotic systems and automation solutions that push the boundaries of technology. You'll collaborate with cross-functional teams to bring intelligent machines to life—from concept to deployment.",
+    "job_title": "Robotic engineer",
+    "location": "London",
+    "required_skills": "ROS Masterring, Python, Linux, Matlab, Raspberry Pi",
+    "salary_range": "50k-60k per year"
+  },
+  "saved_at": "2025-08-13T11:00:38.816174"
+}

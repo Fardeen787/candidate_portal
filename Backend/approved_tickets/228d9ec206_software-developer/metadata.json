@@ -1,0 +1,31 @@
+{
+  "ticket_id": "228d9ec206",
+  "created_at": "2025-07-24T09:39:10.037231",
+  "folder_name": "228d9ec206_software-developer",
+  "resumes": [
+    {
+      "filename": "King_20250724_093910.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-07-24T09:39:10.118968",
+      "applicant_name": "King",
+      "applicant_email": "fardeen1321321321",
+      "file_size": 1652
+    },
+    {
+      "filename": "sahil_20250724_093947.pdf",
+      "original_filename": "fullstack_cv_2.pdf",
+      "uploaded_at": "2025-07-24T09:39:47.938112",
+      "applicant_name": "sahil",
+      "applicant_email": "31232321",
+      "file_size": 1657
+    },
+    {
+      "filename": "khan_20250724_094006.pdf",
+      "original_filename": "fullstack_cv_3.pdf",
+      "uploaded_at": "2025-07-24T09:40:06.999668",
+      "applicant_name": "khan",
+      "applicant_email": "3122132",
+      "file_size": 1652
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "228d9ec206",
+    "source": "chat",
+    "sender": "user_98e07485",
+    "user_id": "user_98e07485",
+    "subject": "software developer",
+    "session_id": "424dadbd-4d92-46e0-a0b8-5387c67c8a45",
+    "created_at": "2025-07-24T09:07:51",
+    "last_updated": "2025-07-24T15:57:41",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-24T09:37:12",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "28-07-2025",
+    "employment_type": "Full-time",
+    "experience_required": "3-5",
+    "job_description": "working on AI",
+    "job_title": "software developer",
+    "location": "bangalore",
+    "required_skills": "PYTHON,SQL",
+    "salary_range": "15-20"
+  },
+  "saved_at": "2025-08-13T11:00:38.609254"
+}

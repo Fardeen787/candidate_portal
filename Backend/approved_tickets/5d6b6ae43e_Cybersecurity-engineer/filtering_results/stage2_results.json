@@ -1,0 +1,244 @@
+{
+  "top_5_candidates": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\5d6b6ae43e_Cybersecurity-engineer\\SARAH_CHEN_20250727_132419.pdf",
+      "filename": "SARAH_CHEN_20250727_132419.pdf",
+      "final_score": 0.37933333333333336,
+      "skill_score": 0.3333333333333333,
+      "experience_score": 0.3,
+      "location_score": 0.8,
+      "professional_development_score": 0.38,
+      "similarity_score": 0.1751068784064505,
+      "matched_skills": [
+        "firewalls"
+      ],
+      "detailed_skill_matches": {
+        "firewalls": [
+          "firewalls"
+        ]
+      },
+      "detected_experience_years": 3,
+      "professional_development": {
+        "professional_development_score": 0.38,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.8571428571428572,
+            "certification_count": 5,
+            "recent_certification_score": 0.8,
+            "certifications_found": [
+              "cissp",
+              "comptia security+",
+              "ceh",
+              "aws certified security",
+              "certified ethical hacker"
+            ],
+            "certification_categories": {
+              "cloud": [
+                "aws certified security"
+              ],
+              "security": [
+                "cissp",
+                "ceh",
+                "certified ethical hacker",
+                "comptia security+"
+              ]
+            },
+            "years_detected": [
+              2023,
+              2022,
+              2021
+            ]
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 5,
+          "certification_categories": [
+            "cloud",
+            "security"
+          ],
+          "recent_certifications": true,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": true,
+          "key_highlights": [
+            "Has 5 professional certifications",
+            "Recent learning activities (within 2 years)",
+            "Cloud certified professional"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cybersecurity engineer",
+        "required_skills": [
+          "firewalls",
+          "and threat detection systems. Excellent analytical and problem-solving abilities to identify vulnerabilities and respond to incidents. Effective communication skills to work with teams and explain security concepts to stakeholders. Continuous learning mindset to stay updated with emerging cyber threats and technologies.",
+          "Strong technical knowledge of security tools"
+        ],
+        "required_experience": "10-15",
+        "location": "new value or null"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\5d6b6ae43e_Cybersecurity-engineer\\MICHAEL_RODRIGUEZ__20250727_132510.pdf",
+      "filename": "MICHAEL_RODRIGUEZ__20250727_132510.pdf",
+      "final_score": 0.1845,
+      "skill_score": 0.0,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.3225,
+      "similarity_score": 0.19758169023132666,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.3225,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.6,
+            "certifications_found": [
+              "gsec"
+            ],
+            "certification_categories": {
+              "security": [
+                "gsec"
+              ]
+            },
+            "years_detected": [
+              2022,
+              2021
+            ]
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Cybersecurity engineer",
+        "required_skills": [
+          "firewalls",
+          "and threat detection systems. Excellent analytical and problem-solving abilities to identify vulnerabilities and respond to incidents. Effective communication skills to work with teams and explain security concepts to stakeholders. Continuous learning mindset to stay updated with emerging cyber threats and technologies.",
+          "Strong technical knowledge of security tools"
+        ],
+        "required_experience": "10-15",
+        "location": "new value or null"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    }
+  ],
+  "detailed_analysis": "Based on the requirements for a Cybersecurity engineer and the provided candidate information, here is the evaluation:\n\n1. **Candidate 1 (Sarah Chen)**\n   - **Overall Score:** 37.9%\n   - **Matched Skills:** Firewalls\n   - **Experience:** 5 years\n   - **Professional Development Highlights:** 5 professional certifications, recent learning activities, cloud certified professional\n   - **Reasoning:** Sarah has relevant experience as a Senior Cybersecurity Engineer and Cybersecurity Analyst, with a strong background in security tools, incident response, and vulnerability assessments. She also has professional certifications and recent learning activities, demonstrating a commitment to continuous learning.\n\n2. **Candidate 2 (Michael Rodriguez)**\n   - **Overall Score:** 18.4%\n   - **Experience:** 4 years\n   - **Professional Development Highlights:** Active content creator\n   - **Reasoning:** Michael has experience as a Cybersecurity Engineer and Information Security Analyst, with expertise in security operations, incident response, and security automation. While he lacks specific skills in firewalls and threat detection systems, his experience and professional development activities show potential for growth.\n\nBased on the information provided, Candidate 1 (Sarah Chen) is the top choice for the Cybersecurity engineer position due to her stronger match with the required skills, relevant experience, and professional development activities.",
+  "selection_criteria": "Based on job requirements and professional development",
+  "requirements_version": "2025-07-27T13:24:19.084596"
+}

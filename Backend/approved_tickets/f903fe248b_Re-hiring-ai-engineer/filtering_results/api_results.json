@@ -1,0 +1,52 @@
+{
+  "status": "completed",
+  "ticket_id": "f903fe248b_Re-hiring-ai-engineer",
+  "total_resumes": 3,
+  "top_candidates": [
+    {
+      "rank": 1,
+      "filename": "fardeen_20250725_054655.pdf",
+      "score": 0.3577222222222222,
+      "skill_score": 0.5555555555555556,
+      "experience_score": 0.3333333333333333,
+      "professional_development_score": 0.1775,
+      "matched_skills": [
+        "Python",
+        "AWS",
+        "Git",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience_years": 2
+    },
+    {
+      "rank": 2,
+      "filename": "sahil_20250725_054526.pdf",
+      "score": 0.3137777777777778,
+      "skill_score": 0.4444444444444444,
+      "experience_score": 0.3333333333333333,
+      "professional_development_score": 0.18000000000000002,
+      "matched_skills": [
+        "AWS",
+        "Git",
+        "REST APIs",
+        "PostgreSQL"
+      ],
+      "experience_years": 2
+    },
+    {
+      "rank": 3,
+      "filename": "SHUBAHM_20250725_055338.pdf",
+      "score": 0.13333333333333333,
+      "skill_score": 0.3333333333333333,
+      "experience_score": 0.0,
+      "professional_development_score": 0.0,
+      "matched_skills": [
+        "Git",
+        "REST APIs",
+        "Docker"
+      ],
+      "experience_years": 0
+    }
+  ]
+}

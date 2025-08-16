@@ -1,0 +1,2988 @@
+{
+  "ticket_id": "52c375e385_Electronic-Engineer",
+  "position": "Electronic Engineer",
+  "timestamp": "2025-07-31T07:26:16.617810",
+  "job_status": "updated",
+  "requirements_last_updated": "2025-07-31T07:18:56.593858",
+  "latest_requirements": {
+    "experience": "5-10",
+    "tech_stack": [
+      "and component selection",
+      "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+      "Python",
+      "microcontroller programming",
+      "along with proficiency in design tools like Altium Designer",
+      "and programming languages such as C/C++",
+      "KiCad",
+      "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+      "SPICE simulators",
+      "project management for meeting development timelines",
+      "Electronics Engineers require expertise in analog and digital circuit design",
+      "debugging",
+      "PCB layout",
+      "combined with knowledge of communication protocols",
+      "and performance optimization",
+      "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+    ],
+    "location": "Sydney",
+    "salary": "70k-120k",
+    "deadline": "28-11-2025"
+  },
+  "summary": {
+    "total_resumes": 6,
+    "stage1_selected": 6,
+    "final_selected": 5
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "filename": "ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "final_score": 0.67,
+        "skill_score": 0.5625,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.225,
+        "similarity_score": 0.1907534077785065,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "SPICE simulators",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "SPICE simulators": [
+            "spice simulators"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.225,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.35714285714285715,
+              "certification_count": 2,
+              "recent_certification_score": 1.0,
+              "certifications_found": [
+                "pmp",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ],
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": [
+                2025
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 2,
+            "certification_categories": [
+              "devops",
+              "agile"
+            ],
+            "recent_certifications": true,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": true,
+            "key_highlights": [
+              "Recent learning activities (within 2 years)"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\_PRIYA_SHARMA_20250727_113503.pdf",
+        "filename": "_PRIYA_SHARMA_20250727_113503.pdf",
+        "final_score": 0.5800000000000001,
+        "skill_score": 0.5,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.1702122870243664,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git",
+            "github"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "technical writing",
+                "github.com"
+              ],
+              "github_activity": null,
+              "blog_activity": true,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog",
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\JAMES_CHEN__20250727_113351.pdf",
+        "filename": "JAMES_CHEN__20250727_113351.pdf",
+        "final_score": 0.525,
+        "skill_score": 0.3125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.09712863413808179,
+        "matched_skills": [
+          "Python",
+          "and programming languages such as C/C++",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "PCB layout",
+          "and performance optimization"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ],
+          "and performance optimization": [
+            "and performance optimization"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Jessica_Park__20250727_111339.pdf",
+        "filename": "Jessica_Park__20250727_111339.pdf",
+        "final_score": 0.44999999999999996,
+        "skill_score": 0.125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.04497842313354647,
+        "matched_skills": [
+          "Python",
+          "Electronics Engineers require expertise in analog and digital circuit design"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\SARAH_WONG__20250727_111612.pdf",
+        "filename": "SARAH_WONG__20250727_111612.pdf",
+        "final_score": 0.43999999999999995,
+        "skill_score": 0.25,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.14976799768534665,
+        "matched_skills": [
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Michael_Rodriguez_20250727_111449.pdf",
+        "filename": "Michael_Rodriguez_20250727_111449.pdf",
+        "final_score": 0.4,
+        "skill_score": 0.0,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.08036801003745214,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 8,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "filename": "ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "final_score": 0.67,
+        "skill_score": 0.5625,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.225,
+        "similarity_score": 0.1907534077785065,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "SPICE simulators",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "SPICE simulators": [
+            "spice simulators"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.225,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.35714285714285715,
+              "certification_count": 2,
+              "recent_certification_score": 1.0,
+              "certifications_found": [
+                "pmp",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ],
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": [
+                2025
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 2,
+            "certification_categories": [
+              "devops",
+              "agile"
+            ],
+            "recent_certifications": true,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": true,
+            "key_highlights": [
+              "Recent learning activities (within 2 years)"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\_PRIYA_SHARMA_20250727_113503.pdf",
+        "filename": "_PRIYA_SHARMA_20250727_113503.pdf",
+        "final_score": 0.5800000000000001,
+        "skill_score": 0.5,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.1702122870243664,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git",
+            "github"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "technical writing",
+                "github.com"
+              ],
+              "github_activity": null,
+              "blog_activity": true,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog",
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\JAMES_CHEN__20250727_113351.pdf",
+        "filename": "JAMES_CHEN__20250727_113351.pdf",
+        "final_score": 0.525,
+        "skill_score": 0.3125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.09712863413808179,
+        "matched_skills": [
+          "Python",
+          "and programming languages such as C/C++",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "PCB layout",
+          "and performance optimization"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ],
+          "and performance optimization": [
+            "and performance optimization"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Jessica_Park__20250727_111339.pdf",
+        "filename": "Jessica_Park__20250727_111339.pdf",
+        "final_score": 0.44999999999999996,
+        "skill_score": 0.125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.04497842313354647,
+        "matched_skills": [
+          "Python",
+          "Electronics Engineers require expertise in analog and digital circuit design"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\SARAH_WONG__20250727_111612.pdf",
+        "filename": "SARAH_WONG__20250727_111612.pdf",
+        "final_score": 0.43999999999999995,
+        "skill_score": 0.25,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.14976799768534665,
+        "matched_skills": [
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Michael_Rodriguez_20250727_111449.pdf",
+        "filename": "Michael_Rodriguez_20250727_111449.pdf",
+        "final_score": 0.4,
+        "skill_score": 0.0,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.08036801003745214,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 8,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        }
+      }
+    ],
+    "agent_review": "Based on the provided information, here is the assessment for each candidate:\n\n1. ALEXANDER MITCHELL:\n   - Overall Score: 67.0%\n   - Meets Requirements: Yes\n   - Comments: Matches most of the required skills, has the necessary experience, and shows some professional development activities. Strong candidate.\n\n2. PRIYA SHARMA:\n   - Overall Score: 58.0%\n   - Meets Requirements: No\n   - Comments: Missing key skills like communication skills, proficiency in Altium Designer, VHDL, SPICE simulators, and project management. Limited professional development.\n\n3. JAMES CHEN:\n   - Overall Score: 52.5%\n   - Meets Requirements: No\n   - Comments: Lacks several essential skills including component selection, communication skills, microcontroller programming, Altium Designer proficiency, VHDL, SPICE simulators, and more. Minimal professional development.\n\n4. Jessica Park:\n   - Overall Score: 45.0%\n   - Meets Requirements: No\n   - Comments: Only matches a few skills, missing critical ones like communication skills, Altium Designer proficiency, VHDL, SPICE simulators, and more. Minimal professional development.\n\n5. SARAH WONG:\n   - Overall Score: 44.0%\n   - Meets Requirements: No\n   - Comments: Matches only a few skills, missing crucial ones like Python, communication skills, Altium Designer proficiency, VHDL, SPICE simulators, and more. Minimal professional development.\n\nBased on the assessment, only ALEXANDER MITCHELL meets the requirements and is a strong candidate for the Electronic Engineer position in Sydney. The other candidates do not fully meet the necessary skills and experience criteria.",
+    "scoring_criteria": {
+      "skills_required": [
+        "and component selection",
+        "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+        "Python",
+        "microcontroller programming",
+        "along with proficiency in design tools like Altium Designer",
+        "and programming languages such as C/C++",
+        "KiCad",
+        "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+        "SPICE simulators",
+        "project management for meeting development timelines",
+        "Electronics Engineers require expertise in analog and digital circuit design",
+        "debugging",
+        "PCB layout",
+        "combined with knowledge of communication protocols",
+        "and performance optimization",
+        "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+      ],
+      "experience_range": "5-10",
+      "location": "Sydney"
+    },
+    "duplicates_found": 0
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "filename": "ALEXANDER_MITCHELL_20250727_112623.pdf",
+        "final_score": 0.67,
+        "skill_score": 0.5625,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.225,
+        "similarity_score": 0.1907534077785065,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "SPICE simulators",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "SPICE simulators": [
+            "spice simulators"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.225,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.35714285714285715,
+              "certification_count": 2,
+              "recent_certification_score": 1.0,
+              "certifications_found": [
+                "pmp",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ],
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": [
+                2025
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 2,
+            "certification_categories": [
+              "devops",
+              "agile"
+            ],
+            "recent_certifications": true,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": true,
+            "key_highlights": [
+              "Recent learning activities (within 2 years)"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\_PRIYA_SHARMA_20250727_113503.pdf",
+        "filename": "_PRIYA_SHARMA_20250727_113503.pdf",
+        "final_score": 0.5800000000000001,
+        "skill_score": 0.5,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.2,
+        "similarity_score": 0.1702122870243664,
+        "matched_skills": [
+          "and component selection",
+          "Python",
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "and component selection": [
+            "and component selection"
+          ],
+          "Python": [
+            "python"
+          ],
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "KiCad": [
+            "kicad"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git",
+            "github"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.2,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "technical writing",
+                "github.com"
+              ],
+              "github_activity": null,
+              "blog_activity": true,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog",
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\JAMES_CHEN__20250727_113351.pdf",
+        "filename": "JAMES_CHEN__20250727_113351.pdf",
+        "final_score": 0.525,
+        "skill_score": 0.3125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.09712863413808179,
+        "matched_skills": [
+          "Python",
+          "and programming languages such as C/C++",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "PCB layout",
+          "and performance optimization"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ],
+          "and performance optimization": [
+            "and performance optimization"
+          ]
+        },
+        "detected_experience_years": 6,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        },
+        "final_rank": 3,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Jessica_Park__20250727_111339.pdf",
+        "filename": "Jessica_Park__20250727_111339.pdf",
+        "final_score": 0.44999999999999996,
+        "skill_score": 0.125,
+        "experience_score": 1.0,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.04497842313354647,
+        "matched_skills": [
+          "Python",
+          "Electronics Engineers require expertise in analog and digital circuit design"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "Electronics Engineers require expertise in analog and digital circuit design": [
+            "git"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        },
+        "final_rank": 4,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\SARAH_WONG__20250727_111612.pdf",
+        "filename": "SARAH_WONG__20250727_111612.pdf",
+        "final_score": 0.43999999999999995,
+        "skill_score": 0.25,
+        "experience_score": 0.8,
+        "location_score": 1.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.14976799768534665,
+        "matched_skills": [
+          "microcontroller programming",
+          "and programming languages such as C/C++",
+          "debugging",
+          "PCB layout"
+        ],
+        "detailed_skill_matches": {
+          "microcontroller programming": [
+            "microcontroller programming"
+          ],
+          "and programming languages such as C/C++": [
+            "c++"
+          ],
+          "debugging": [
+            "debugging"
+          ],
+          "PCB layout": [
+            "pcb layout"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Electronic Engineer",
+          "required_skills": [
+            "and component selection",
+            "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+            "Python",
+            "microcontroller programming",
+            "along with proficiency in design tools like Altium Designer",
+            "and programming languages such as C/C++",
+            "KiCad",
+            "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+            "SPICE simulators",
+            "project management for meeting development timelines",
+            "Electronics Engineers require expertise in analog and digital circuit design",
+            "debugging",
+            "PCB layout",
+            "combined with knowledge of communication protocols",
+            "and performance optimization",
+            "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+          ],
+          "required_experience": "5-10",
+          "location": "Sydney"
+        },
+        "final_rank": 5,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the requirements for an Electronic Engineer in Sydney with 5-10 years of experience and specific skills in component selection, communication, Python, microcontroller programming, Altium Designer, C/C++, KiCad, VHDL, signal processing, SPICE simulators, project management, analog and digital circuit design, debugging, PCB layout, communication protocols, performance optimization, and testing equipment, here is the ranking of the candidates:\n\n1. **Alexander Mitchell**\n   - **Overall Score:** 67.0%\n   - **Experience:** 7 years\n   - **Skills Matched:** and component selection, Python, microcontroller programming, C/C++, KiCad, analog and digital circuit design, debugging, PCB layout\n   - **Professional Development:** Recent learning activities\n   - **Resume Preview:** Alexander Mitchell has a strong background in analog/digital circuit design, PCB design, microcontroller programming, and signal processing. He is proficient in tools like Altium Designer and KiCad, and programming languages such as C/C++. His experience aligns well with the requirements.\n\n2. **Priya Sharma**\n   - **Overall Score:** 58.0%\n   - **Experience:** 6 years\n   - **Skills Matched:** and component selection, Python, microcontroller programming, C/C++, KiCad, analog and digital circuit design, debugging, PCB layout\n   - **Professional Development:** Active content creator\n   - **Resume Preview:** Priya Sharma has expertise in embedded systems design, IoT development, and PCB design using tools like Altium Designer and KiCad. She also has experience with microcontroller programming and communication protocols, making her a strong candidate for the role.\n\n3. **James Chen**\n   - **Overall Score:** 52.5%\n   - **Experience:** 8 years\n   - **Skills Matched:** Python, C/C++, analog and digital circuit design, PCB layout, performance optimization\n   - **Resume Preview:** James Chen specializes in RF/wireless systems and digital signal processing. While he lacks some specific skills like component selection and communication, his experience and expertise in related areas make him a viable candidate for the role.\n\n4. **Jessica Park**\n   - **Overall Score:** 45.0%\n   - **Experience:** 5 years\n   - **Skills Matched:** Python, analog and digital circuit design\n   - **Resume Preview:** Jessica Park's focus on digital signal processing and FPGA implementation aligns more with specific areas of expertise rather than the broader requirements of the Electronic Engineer role. She lacks key skills like microcontroller programming and PCB layout.\n\n5. **Sarah Wong**\n   - **Overall Score:** 44.0%\n   - **Experience:** 6 years\n   - **Skills Matched:** microcontroller programming, C/C++, debugging, PCB layout\n   - **Resume Preview:** Sarah Wong's experience in embedded systems design and IoT solutions is valuable, but she lacks key skills like Python, component selection, and specific tools like Altium Designer and KiCad, which are essential for the role.\n\nIn summary, Alexander Mitchell and Priya Sharma are the top candidates based on their experience, skills alignment, and professional development activities. James Chen, Jessica Park, and Sarah Wong have strengths but may require additional training or experience in certain areas to fully meet the requirements of the Electronic Engineer role.",
+    "selection_criteria": "Based on job requirements and professional development",
+    "requirements_version": "2025-07-31T07:18:56.593858"
+  },
+  "qa_review": {
+    "qa_assessment": "The filtering process for the Electronic Engineer position seems to have been conducted effectively. Here's a breakdown of the verification:\n\n1. **Skill Requirements Evaluation**: The skill requirements were properly evaluated. The job description clearly outlines the necessary skills in component selection, communication, programming languages, analytical skills, project management, circuit design, debugging, PCB layout, communication protocols, and testing equipment. The candidates were likely assessed based on these criteria.\n\n2. **Experience Range Matching**: The experience range specified (5-10 years) aligns with the requirements for the position. This range indicates that candidates should have a solid foundation in electronic engineering and related areas.\n\n3. **Professional Development Consideration**: The mention of professional development being considered is a positive sign. It indicates that the hiring process took into account not just current skills and experience but also the potential for growth and learning in the role.\n\n4. **Concerns**: No major concerns are apparent in the process summary provided. However, it would have been beneficial to have more details on how professional development was factored into the selection process.\n\n5. **Recommendations for Improvement**:\n   - Provide more transparency on how professional development was considered. This could include details on how candidates' potential for growth and learning was assessed.\n   - Consider including a section on how soft skills were evaluated, as these are crucial for effective collaboration and problem-solving in a technical role.\n   - Ensure that the location requirement (Sydney) is clearly communicated to candidates from the outset to manage expectations.\n\nOverall, the process appears to have been thorough, but providing more insights into the evaluation criteria and considerations for professional development could further enhance the selection process.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-31T07:26:16.617810"
+  },
+  "final_top_5": [
+    {
+      "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\ALEXANDER_MITCHELL_20250727_112623.pdf",
+      "filename": "ALEXANDER_MITCHELL_20250727_112623.pdf",
+      "final_score": 0.67,
+      "skill_score": 0.5625,
+      "experience_score": 1.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.225,
+      "similarity_score": 0.1907534077785065,
+      "matched_skills": [
+        "and component selection",
+        "Python",
+        "microcontroller programming",
+        "and programming languages such as C/C++",
+        "KiCad",
+        "SPICE simulators",
+        "Electronics Engineers require expertise in analog and digital circuit design",
+        "debugging",
+        "PCB layout"
+      ],
+      "detailed_skill_matches": {
+        "and component selection": [
+          "and component selection"
+        ],
+        "Python": [
+          "python"
+        ],
+        "microcontroller programming": [
+          "microcontroller programming"
+        ],
+        "and programming languages such as C/C++": [
+          "c++"
+        ],
+        "KiCad": [
+          "kicad"
+        ],
+        "SPICE simulators": [
+          "spice simulators"
+        ],
+        "Electronics Engineers require expertise in analog and digital circuit design": [
+          "git"
+        ],
+        "debugging": [
+          "debugging"
+        ],
+        "PCB layout": [
+          "pcb layout"
+        ]
+      },
+      "detected_experience_years": 6,
+      "professional_development": {
+        "professional_development_score": 0.225,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.35714285714285715,
+            "certification_count": 2,
+            "recent_certification_score": 1.0,
+            "certifications_found": [
+              "pmp",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka"
+              ],
+              "agile": [
+                "pmp"
+              ]
+            },
+            "years_detected": [
+              2025
+            ]
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 2,
+          "certification_categories": [
+            "devops",
+            "agile"
+          ],
+          "recent_certifications": true,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": true,
+          "key_highlights": [
+            "Recent learning activities (within 2 years)"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Electronic Engineer",
+        "required_skills": [
+          "and component selection",
+          "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+          "Python",
+          "microcontroller programming",
+          "along with proficiency in design tools like Altium Designer",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+          "SPICE simulators",
+          "project management for meeting development timelines",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout",
+          "combined with knowledge of communication protocols",
+          "and performance optimization",
+          "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+        ],
+        "required_experience": "5-10",
+        "location": "Sydney"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\_PRIYA_SHARMA_20250727_113503.pdf",
+      "filename": "_PRIYA_SHARMA_20250727_113503.pdf",
+      "final_score": 0.5800000000000001,
+      "skill_score": 0.5,
+      "experience_score": 0.8,
+      "location_score": 1.0,
+      "professional_development_score": 0.2,
+      "similarity_score": 0.1702122870243664,
+      "matched_skills": [
+        "and component selection",
+        "Python",
+        "microcontroller programming",
+        "and programming languages such as C/C++",
+        "KiCad",
+        "Electronics Engineers require expertise in analog and digital circuit design",
+        "debugging",
+        "PCB layout"
+      ],
+      "detailed_skill_matches": {
+        "and component selection": [
+          "and component selection"
+        ],
+        "Python": [
+          "python"
+        ],
+        "microcontroller programming": [
+          "microcontroller programming"
+        ],
+        "and programming languages such as C/C++": [
+          "c++"
+        ],
+        "KiCad": [
+          "kicad"
+        ],
+        "Electronics Engineers require expertise in analog and digital circuit design": [
+          "git",
+          "github"
+        ],
+        "debugging": [
+          "debugging"
+        ],
+        "PCB layout": [
+          "pcb layout"
+        ]
+      },
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.2,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "technical writing",
+              "github.com"
+            ],
+            "github_activity": null,
+            "blog_activity": true,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "blog",
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Electronic Engineer",
+        "required_skills": [
+          "and component selection",
+          "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+          "Python",
+          "microcontroller programming",
+          "along with proficiency in design tools like Altium Designer",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+          "SPICE simulators",
+          "project management for meeting development timelines",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout",
+          "combined with knowledge of communication protocols",
+          "and performance optimization",
+          "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+        ],
+        "required_experience": "5-10",
+        "location": "Sydney"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\JAMES_CHEN__20250727_113351.pdf",
+      "filename": "JAMES_CHEN__20250727_113351.pdf",
+      "final_score": 0.525,
+      "skill_score": 0.3125,
+      "experience_score": 1.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.09712863413808179,
+      "matched_skills": [
+        "Python",
+        "and programming languages such as C/C++",
+        "Electronics Engineers require expertise in analog and digital circuit design",
+        "PCB layout",
+        "and performance optimization"
+      ],
+      "detailed_skill_matches": {
+        "Python": [
+          "python"
+        ],
+        "and programming languages such as C/C++": [
+          "c++"
+        ],
+        "Electronics Engineers require expertise in analog and digital circuit design": [
+          "git"
+        ],
+        "PCB layout": [
+          "pcb layout"
+        ],
+        "and performance optimization": [
+          "and performance optimization"
+        ]
+      },
+      "detected_experience_years": 6,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Electronic Engineer",
+        "required_skills": [
+          "and component selection",
+          "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+          "Python",
+          "microcontroller programming",
+          "along with proficiency in design tools like Altium Designer",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+          "SPICE simulators",
+          "project management for meeting development timelines",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout",
+          "combined with knowledge of communication protocols",
+          "and performance optimization",
+          "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+        ],
+        "required_experience": "5-10",
+        "location": "Sydney"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\Jessica_Park__20250727_111339.pdf",
+      "filename": "Jessica_Park__20250727_111339.pdf",
+      "final_score": 0.44999999999999996,
+      "skill_score": 0.125,
+      "experience_score": 1.0,
+      "location_score": 1.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.04497842313354647,
+      "matched_skills": [
+        "Python",
+        "Electronics Engineers require expertise in analog and digital circuit design"
+      ],
+      "detailed_skill_matches": {
+        "Python": [
+          "python"
+        ],
+        "Electronics Engineers require expertise in analog and digital circuit design": [
+          "git"
+        ]
+      },
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Electronic Engineer",
+        "required_skills": [
+          "and component selection",
+          "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+          "Python",
+          "microcontroller programming",
+          "along with proficiency in design tools like Altium Designer",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+          "SPICE simulators",
+          "project management for meeting development timelines",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout",
+          "combined with knowledge of communication protocols",
+          "and performance optimization",
+          "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+        ],
+        "required_experience": "5-10",
+        "location": "Sydney"
+      },
+      "final_rank": 4,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "approved_tickets\\52c375e385_Electronic-Engineer\\SARAH_WONG__20250727_111612.pdf",
+      "filename": "SARAH_WONG__20250727_111612.pdf",
+      "final_score": 0.43999999999999995,
+      "skill_score": 0.25,
+      "experience_score": 0.8,
+      "location_score": 1.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.14976799768534665,
+      "matched_skills": [
+        "microcontroller programming",
+        "and programming languages such as C/C++",
+        "debugging",
+        "PCB layout"
+      ],
+      "detailed_skill_matches": {
+        "microcontroller programming": [
+          "microcontroller programming"
+        ],
+        "and programming languages such as C/C++": [
+          "c++"
+        ],
+        "debugging": [
+          "debugging"
+        ],
+        "PCB layout": [
+          "pcb layout"
+        ]
+      },
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Electronic Engineer",
+        "required_skills": [
+          "and component selection",
+          "and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+          "Python",
+          "microcontroller programming",
+          "along with proficiency in design tools like Altium Designer",
+          "and programming languages such as C/C++",
+          "KiCad",
+          "and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing",
+          "SPICE simulators",
+          "project management for meeting development timelines",
+          "Electronics Engineers require expertise in analog and digital circuit design",
+          "debugging",
+          "PCB layout",
+          "combined with knowledge of communication protocols",
+          "and performance optimization",
+          "and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues"
+        ],
+        "required_experience": "5-10",
+        "location": "Sydney"
+      },
+      "final_rank": 5,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

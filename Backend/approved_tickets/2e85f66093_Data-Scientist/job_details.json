@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "2e85f66093",
+    "source": "chat",
+    "sender": "user_b348fa73",
+    "user_id": "user_b348fa73",
+    "subject": "Data Scientist",
+    "session_id": "034f2425-2064-42a0-972f-5919a4d9fc5d",
+    "created_at": "2025-07-25T16:22:38",
+    "last_updated": "2025-07-25T16:24:06",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-25T16:23:04",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "29-07-2025",
+    "employment_type": "Full-time",
+    "experience_required": "7",
+    "job_description": "Working on machine learning, should be good in python",
+    "job_title": "Data Scientist",
+    "location": "NewYork",
+    "required_skills": "Python, SQL",
+    "salary_range": "12-15"
+  },
+  "saved_at": "2025-07-27T07:17:18.599469"
+}

@@ -1,0 +1,67 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-25 05:54:14
+
+STATISTICS:
+  Total Tickets: 8
+  Processed: 1
+  Skipped (Already Processed): 5
+  Errors: 2
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 228d9ec206_software-developer
+Status: SKIPPED
+Last Processed: 2025-07-24T09:43:36.429926
+
+--------------------------------------------------
+
+Ticket ID: 388202b780_Devops-engineer
+Status: SKIPPED
+Last Processed: 2025-07-24T14:20:51.504474
+
+--------------------------------------------------
+
+Ticket ID: 462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 532bc03c3a_Re-hiring-data-engineer
+Status: SKIPPED
+Last Processed: 2025-07-24T09:57:17.111785
+
+--------------------------------------------------
+
+Ticket ID: 74afd4b567_Re-Software-Developer-position
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: SKIPPED
+Last Processed: 2025-07-24T09:44:01.904407
+
+--------------------------------------------------
+
+Ticket ID: bbc59b842d_Cloud-engineer
+Status: SKIPPED
+Last Processed: 2025-07-24T16:05:05.647374
+
+--------------------------------------------------
+
+Ticket ID: f903fe248b_Re-hiring-ai-engineer
+Status: COMPLETED
+Position: AI Engineer
+Resumes Processed: 3
+Top Candidates:
+  1. fardeen_20250725_054655.pdf - 35.8%
+  2. sahil_20250725_054526.pdf - 31.4%
+  3. SHUBAHM_20250725_055338.pdf - 13.3%
+
+--------------------------------------------------
+

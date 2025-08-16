@@ -1,0 +1,87 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-25 16:31:39
+
+STATISTICS:
+  Total Tickets: 9
+  Processed: 4
+  Skipped (Already Processed): 3
+  Errors: 2
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 228d9ec206_software-developer
+Status: COMPLETED
+Position: software developer
+Resumes Processed: 3
+Top Candidates:
+  1. sahil_20250724_093947.pdf - 44.0%
+  2. khan_20250724_094006.pdf - 20.0%
+  3. King_20250724_093910.pdf - 0.0%
+
+--------------------------------------------------
+
+Ticket ID: 2e85f66093_Data-Scientist
+Status: COMPLETED
+Position: Data Scientist
+Resumes Processed: 4
+Top Candidates:
+  1. fardeen_20250725_162818.pdf - 52.1%
+  2. Shubham_20250725_162929.pdf - 44.0%
+  3. khan_20250725_162751.pdf - 32.2%
+
+--------------------------------------------------
+
+Ticket ID: 388202b780_Devops-engineer
+Status: SKIPPED
+Last Processed: 2025-07-24T14:20:51.504474
+
+--------------------------------------------------
+
+Ticket ID: 462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 532bc03c3a_Re-hiring-data-engineer
+Status: COMPLETED
+Position: Data engineer
+Resumes Processed: 2
+Top Candidates:
+  1. fardeen_20250724_095605.pdf - 37.8%
+  2. faddf_20250724_095625.pdf - 33.4%
+
+--------------------------------------------------
+
+Ticket ID: 74afd4b567_Re-Software-Developer-position
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: SKIPPED
+Last Processed: 2025-07-24T09:44:01.904407
+
+--------------------------------------------------
+
+Ticket ID: bbc59b842d_Cloud-engineer
+Status: COMPLETED
+Position: Cloud engineer
+Resumes Processed: 4
+Top Candidates:
+  1. khan_20250724_160246.pdf - 29.5%
+  2. rohit_20250724_160232.pdf - 19.6%
+  3. sahil_20250724_160348.pdf - 14.0%
+
+--------------------------------------------------
+
+Ticket ID: f903fe248b_Re-hiring-ai-engineer
+Status: SKIPPED
+Last Processed: 2025-07-25T05:54:14.977861
+
+--------------------------------------------------
+

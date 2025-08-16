@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "2bc9f575fb",
+    "source": "chat",
+    "sender": "user_91b2140b",
+    "user_id": "user_91b2140b",
+    "subject": "Mechanical engineer",
+    "session_id": "ab317d8c-e0b4-45cb-b6f6-2474889cc0c9",
+    "created_at": "2025-07-27T13:38:33",
+    "last_updated": "2025-07-27T13:39:42",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-27T13:38:55",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "16-12-2025",
+    "employment_type": "Full-time",
+    "experience_required": "8-10",
+    "job_description": "A Mechanical Engineer designs, develops, and tests mechanical systems, machines, and devices including engines, tools, manufacturing equipment, and thermal systems. They work across diverse industries from automotive and aerospace to manufacturing and energy, focusing on creating efficient, safe, and cost-effective mechanical solutions through analysis, design, and implementation of moving parts, mechanisms, and thermal processes.",
+    "job_title": "Mechanical engineer",
+    "location": "Paris",
+    "required_skills": "Mechanical Engineers need CAD software expertise (SolidWorks, AutoCAD), 3D modeling, and finite element analysis combined with strong fundamentals in thermodynamics, fluid mechanics, and materials science. They require proficiency in simulation tools (ANSYS, MATLAB), project management software, and manufacturing processes knowledge. Essential skills include technical communication, problem-solving, project planning, quality control, and safety compliance for delivering successful engineering solutions.",
+    "salary_range": "5k-6k"
+  },
+  "saved_at": "2025-08-13T11:00:38.650161"
+}

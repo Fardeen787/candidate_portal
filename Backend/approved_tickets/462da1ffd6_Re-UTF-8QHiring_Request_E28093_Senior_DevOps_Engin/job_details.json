@@ -1,0 +1,31 @@
+{
+  "ticket_info": {
+    "ticket_id": "462da1ffd6",
+    "sender": "oualid.sadlaib2000@gmail.com",
+    "subject": "Re: =?UTF-8?Q?Hiring_Request_=E2=80=93_Senior_DevOps_Engineer?=",
+    "created_at": "2025-07-04T16:48:59",
+    "last_updated": "2025-07-04T16:51:17",
+    "status": "posted",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-04T16:51:17",
+    "approval_token": "TtgKbuOWYlxuUOFQet3SoGyo4wFQapj6",
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "application_deadline": "March 15, 2025",
+    "deadline": "March 15, 2025",
+    "employment_type": "Full-time",
+    "experience_required": "5-8 years",
+    "job_description": "Design and implement CI/CD pipelines, manage cloud infrastructure, ensure system scalability and reliability, and collaborate with development teams to streamline deployments.",
+    "job_title": "Senior DevOps Engineer",
+    "location": "London, United Kingdom",
+    "required_skills": "Docker, Kubernetes, Terraform, CI/CD tools (Jenkins/GitLab CI), Cloud Platforms (AWS/GCP/Azure), Linux administration",
+    "salary_range": "GBP 60,000 – 85,000 per annum"
+  },
+  "saved_at": "2025-07-23T19:20:38.444740"
+}

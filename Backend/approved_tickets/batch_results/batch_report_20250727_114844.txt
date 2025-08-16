@@ -1,0 +1,92 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-27 11:48:44
+
+STATISTICS:
+  Total Tickets: 13
+  Processed: 0
+  Skipped (Already Processed): 8
+  Errors: 5
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 228d9ec206_software-developer
+Status: SKIPPED
+Last Processed: 2025-07-27T09:29:07.475053
+
+--------------------------------------------------
+
+Ticket ID: 2e85f66093_Data-Scientist
+Status: SKIPPED
+Last Processed: 2025-07-27T09:29:12.348817
+
+--------------------------------------------------
+
+Ticket ID: 388202b780_Devops-engineer
+Status: SKIPPED
+Last Processed: 2025-07-24T14:20:51.504474
+
+--------------------------------------------------
+
+Ticket ID: 462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 52c375e385_Electronic-Engineer
+Status: ERROR
+Error: 'charmap' codec can't encode character '\u2713' in position 5: character maps to <undefined>
+
+--------------------------------------------------
+
+Ticket ID: 532bc03c3a_Re-hiring-data-engineer
+Status: SKIPPED
+Last Processed: 2025-07-27T09:29:28.467512
+
+--------------------------------------------------
+
+Ticket ID: 74afd4b567_Re-Software-Developer-position
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 7b32bbee4e_Robotic-engineer
+Status: SKIPPED
+Last Processed: 2025-07-27T10:16:41.837258
+
+--------------------------------------------------
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: SKIPPED
+Last Processed: 2025-07-24T09:44:01.904407
+
+--------------------------------------------------
+
+Ticket ID: bbc59b842d_Cloud-engineer
+Status: SKIPPED
+Last Processed: 2025-07-27T09:30:02.904250
+
+--------------------------------------------------
+
+Ticket ID: d8aac438d9_Devops-engineer
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: f903fe248b_Re-hiring-ai-engineer
+Status: SKIPPED
+Last Processed: 2025-07-27T09:30:18.644767
+
+--------------------------------------------------
+
+Ticket ID: fc09b94868_Re-hiring-ai-engineer
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+

@@ -1,0 +1,39 @@
+{
+  "ticket_id": "7b32bbee4e",
+  "created_at": "2025-07-27T09:23:17.907526",
+  "folder_name": "7b32bbee4e_Robotic-engineer",
+  "resumes": [
+    {
+      "filename": "ALEX_MARTINEZ__20250727_092317.pdf",
+      "original_filename": "ALEX_MARTINEZ_cv.pdf",
+      "uploaded_at": "2025-07-27T09:23:17.939823",
+      "applicant_name": "ALEX MARTINEZ ",
+      "applicant_email": "alex.martinez@email.com",
+      "file_size": 271699
+    },
+    {
+      "filename": "Priya_Deshmukh_20250727_092428.pdf",
+      "original_filename": "Priya_Deshmukh_Robotics_Engineer_CV.pdf",
+      "uploaded_at": "2025-07-27T09:24:28.830297",
+      "applicant_name": "Priya Deshmukh",
+      "applicant_email": "priyadeshmukh@gmail.com",
+      "file_size": 3794
+    },
+    {
+      "filename": "SARAH_CHEN__20250727_092523.pdf",
+      "original_filename": "SARAH_CHEN_cv.pdf",
+      "uploaded_at": "2025-07-27T09:25:23.451413",
+      "applicant_name": "SARAH CHEN ",
+      "applicant_email": "sarah.chen.robotics@gmail.com",
+      "file_size": 316395
+    },
+    {
+      "filename": "Robotics_Engineer_20250727_093624.pdf",
+      "original_filename": "Pierre_cv.pdf",
+      "uploaded_at": "2025-07-27T09:36:24.735987",
+      "applicant_name": "Robotics Engineer",
+      "applicant_email": "pierre.dubois@robotique.fr",
+      "file_size": 272715
+    }
+  ]
+}

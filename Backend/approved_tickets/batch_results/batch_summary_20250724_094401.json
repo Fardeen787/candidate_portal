@@ -1,0 +1,106 @@
+{
+  "batch_run_timestamp": "2025-07-24T09:44:01.906408",
+  "statistics": {
+    "total_tickets": 4,
+    "processed": 2,
+    "skipped": 0,
+    "errors": 2
+  },
+  "tickets": [
+    {
+      "ticket_id": "228d9ec206_software-developer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\228d9ec206_software-developer",
+      "status": "completed",
+      "timestamp": "2025-07-24T09:43:36.430922",
+      "position": "software developer",
+      "total_resumes": 3,
+      "top_5_selected": 3,
+      "top_candidates": [
+        {
+          "name": "sahil_20250724_093947.pdf",
+          "score": "44.0%"
+        },
+        {
+          "name": "khan_20250724_094006.pdf",
+          "score": "20.0%"
+        },
+        {
+          "name": "King_20250724_093910.pdf",
+          "score": "0.0%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "status": "error",
+      "timestamp": "2025-07-24T09:43:40.997830",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "74afd4b567_Re-Software-Developer-position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position",
+      "status": "error",
+      "timestamp": "2025-07-24T09:43:45.211083",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "7e8864422b_Re-New-Hiring-Position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position",
+      "status": "completed",
+      "timestamp": "2025-07-24T09:44:01.905405",
+      "position": "Fullsatck engineer",
+      "total_resumes": 6,
+      "top_5_selected": 5,
+      "top_candidates": [
+        {
+          "name": "Yahia__20250723_122029.pdf",
+          "score": "47.6%"
+        },
+        {
+          "name": "Smith_20250723_123008.pdf",
+          "score": "36.0%"
+        },
+        {
+          "name": "JOE_20250723_123158.pdf",
+          "score": "8.0%"
+        }
+      ]
+    }
+  ],
+  "tracker_summary": {
+    "total_processed": 5,
+    "tickets": {
+      "74afd4b567_Re-Software-Developer-position": {
+        "content_hash": "a6e2c58b262d4d7d92847eb9800fd9d8",
+        "last_processed": "2025-07-07T15:33:28.597453",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position\\filtering_results\\final_results_74afd4b567_Re-Software-Developer-position_20250707_153328.json",
+        "status": "completed"
+      },
+      "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin": {
+        "content_hash": "6c57f1db8e69b51d257fafe88aa1d604",
+        "last_processed": "2025-07-11T16:33:41.982556",
+        "results_file": "approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin\\filtering_results\\final_results_462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin_20250711_163341.json",
+        "status": "completed"
+      },
+      "bfe785244b_Software-Engineer": {
+        "content_hash": "13e4f9cb4046ef47da690fa1bcfec63a",
+        "last_processed": "2025-07-23T12:35:48.234214",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bfe785244b_Software-Engineer\\filtering_results\\final_results_bfe785244b_Software-Engineer_20250723_123548.json",
+        "status": "completed"
+      },
+      "7e8864422b_Re-New-Hiring-Position": {
+        "content_hash": "e3a745f80983a84257084e1ddcabe84d",
+        "last_processed": "2025-07-24T09:44:01.904407",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\filtering_results\\final_results_7e8864422b_Re-New-Hiring-Position_20250724_094401.json",
+        "status": "completed"
+      },
+      "228d9ec206_software-developer": {
+        "content_hash": "e17a683661b5666aba3d630a01ec8dc2",
+        "last_processed": "2025-07-24T09:43:36.429926",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\228d9ec206_software-developer\\filtering_results\\final_results_228d9ec206_software-developer_20250724_094336.json",
+        "status": "completed"
+      }
+    }
+  }
+}

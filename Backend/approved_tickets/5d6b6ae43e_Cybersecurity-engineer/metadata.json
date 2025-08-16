@@ -1,0 +1,23 @@
+{
+  "ticket_id": "5d6b6ae43e",
+  "created_at": "2025-07-27T13:24:19.074036",
+  "folder_name": "5d6b6ae43e_Cybersecurity-engineer",
+  "resumes": [
+    {
+      "filename": "SARAH_CHEN_20250727_132419.pdf",
+      "original_filename": "Sarah_chenn.pdf",
+      "uploaded_at": "2025-07-27T13:24:19.103407",
+      "applicant_name": "SARAH CHEN",
+      "applicant_email": "sarah.chen@email.com",
+      "file_size": 214960
+    },
+    {
+      "filename": "MICHAEL_RODRIGUEZ__20250727_132510.pdf",
+      "original_filename": "MICHAEL_RODRIGUEZ.pdf",
+      "uploaded_at": "2025-07-27T13:25:10.501925",
+      "applicant_name": "MICHAEL RODRIGUEZ ",
+      "applicant_email": "m.rodriguez@email.com",
+      "file_size": 234067
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "batch_run_timestamp": "2025-07-23T09:51:34.898863",
+  "statistics": {
+    "total_tickets": 1,
+    "processed": 0,
+    "skipped": 0,
+    "errors": 1
+  },
+  "tickets": [
+    {
+      "ticket_id": "bfe785244b_Software-Engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bfe785244b_Software-Engineer",
+      "status": "error",
+      "timestamp": "2025-07-23T09:51:34.887640",
+      "error_message": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+    }
+  ],
+  "tracker_summary": {
+    "total_processed": 2,
+    "tickets": {
+      "74afd4b567_Re-Software-Developer-position": {
+        "content_hash": "a6e2c58b262d4d7d92847eb9800fd9d8",
+        "last_processed": "2025-07-07T15:33:28.597453",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position\\filtering_results\\final_results_74afd4b567_Re-Software-Developer-position_20250707_153328.json",
+        "status": "completed"
+      },
+      "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin": {
+        "content_hash": "6c57f1db8e69b51d257fafe88aa1d604",
+        "last_processed": "2025-07-11T16:33:41.982556",
+        "results_file": "approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin\\filtering_results\\final_results_462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin_20250711_163341.json",
+        "status": "completed"
+      }
+    }
+  }
+}

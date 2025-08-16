@@ -1,0 +1,1110 @@
+{
+  "ticket_id": "532bc03c3a_Re-hiring-data-engineer",
+  "position": "Data engineer",
+  "timestamp": "2025-07-25T16:31:09.358501",
+  "job_status": "posted",
+  "requirements_last_updated": "2025-07-25T15:36:01.802944",
+  "latest_requirements": {
+    "experience": "5-7 years",
+    "tech_stack": [
+      "PostgreSQL",
+      "Docker",
+      "Django",
+      "Redis",
+      "Git",
+      "FastAPI",
+      "REST APIs",
+      "AWS",
+      "Python"
+    ],
+    "location": "Mumbai, Maharashtra",
+    "salary": "INR 15-25 Lakhs per annum",
+    "deadline": "15-02-2025"
+  },
+  "summary": {
+    "total_resumes": 2,
+    "stage1_selected": 2,
+    "final_selected": 2
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\fardeen_20250724_095605.pdf",
+        "filename": "fardeen_20250724_095605.pdf",
+        "final_score": 0.3777222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "PostgreSQL",
+          "Docker",
+          "Git",
+          "AWS",
+          "Python"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "Git": [
+            "git"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "Python": [
+            "python"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\faddf_20250724_095625.pdf",
+        "filename": "faddf_20250724_095625.pdf",
+        "final_score": 0.33377777777777784,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "PostgreSQL",
+          "Git",
+          "REST APIs",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\fardeen_20250724_095605.pdf",
+        "filename": "fardeen_20250724_095605.pdf",
+        "final_score": 0.3777222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "PostgreSQL",
+          "Docker",
+          "Git",
+          "AWS",
+          "Python"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "Git": [
+            "git"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "Python": [
+            "python"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\faddf_20250724_095625.pdf",
+        "filename": "faddf_20250724_095625.pdf",
+        "final_score": 0.33377777777777784,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "PostgreSQL",
+          "Git",
+          "REST APIs",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        }
+      }
+    ],
+    "agent_review": "Candidate 1 (fardeen_20250724_095605.pdf):\n- Overall Score: 37.8%\n- Skill Match: 55.6% (5/9)\n- Experience: 2 years (Score: 40.0%)\n- Location Match: No\n- Missing Skills: Django, Redis, FastAPI, REST APIs\n- Professional Development: Minimal - Little evidence of continuous learning\n  - Certifications: 3\n  - Continuous Learner: No\n\nCandidate 2 (faddf_20250724_095625.pdf):\n- Overall Score: 33.4%\n- Skill Match: 44.4% (4/9)\n- Experience: 2 years (Score: 40.0%)\n- Location Match: No\n- Missing Skills: Docker, Django, Redis, FastAPI, Python\n- Professional Development: Minimal - Little evidence of continuous learning\n  - Certifications: 0\n  - Continuous Learner: No\n\nNeither of the candidates fully meet the requirements as they both lack some of the essential skills such as Django, Redis, FastAPI, and REST APIs. Additionally, their professional development scores indicate minimal evidence of continuous learning. Both candidates are missing key skills and do not demonstrate a strong commitment to professional growth.",
+    "scoring_criteria": {
+      "skills_required": [
+        "PostgreSQL",
+        "Docker",
+        "Django",
+        "Redis",
+        "Git",
+        "FastAPI",
+        "REST APIs",
+        "AWS",
+        "Python"
+      ],
+      "experience_range": "5-7 years",
+      "location": "Mumbai, Maharashtra"
+    },
+    "duplicates_found": 0
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\fardeen_20250724_095605.pdf",
+        "filename": "fardeen_20250724_095605.pdf",
+        "final_score": 0.3777222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "PostgreSQL",
+          "Docker",
+          "Git",
+          "AWS",
+          "Python"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "Git": [
+            "git"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "Python": [
+            "python"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks",
+                "ceh",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\faddf_20250724_095625.pdf",
+        "filename": "faddf_20250724_095625.pdf",
+        "final_score": 0.33377777777777784,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "PostgreSQL",
+          "Git",
+          "REST APIs",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Data engineer",
+          "required_skills": [
+            "PostgreSQL",
+            "Docker",
+            "Django",
+            "Redis",
+            "Git",
+            "FastAPI",
+            "REST APIs",
+            "AWS",
+            "Python"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Mumbai, Maharashtra"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the requirements for a Data Engineer with 5-7 years of experience in Mumbai, Maharashtra, and the skills in PostgreSQL, Docker, Django, Redis, Git, FastAPI, REST APIs, AWS, and Python, here are the top candidates:\n\n1. **Candidate 1 (Fardeen Khan)**\n   - **Overall Score:** 37.8%\n   - **Skills Matched:** PostgreSQL, Docker, Git, AWS, Python\n   - **Missing Skills:** Django, Redis, FastAPI, REST APIs\n   - **Experience:** 2 years\n   - **Professional Development Highlights:** Has 3 professional certifications\n   - **Resume Preview:** The candidate has relevant experience as a Data Engineer at Fractal Analytics, working on projects involving workflow automation, API integration, ETL pipelines, and more. They have certifications in AWS Cloud Practitioner, GATE, and others, showcasing commitment to professional development.\n\n2. **Candidate 2 (Abhijit Suryawanshi)**\n   - **Overall Score:** 33.4%\n   - **Skills Matched:** PostgreSQL, Git, REST APIs, AWS\n   - **Missing Skills:** Docker, Django, Redis, FastAPI, Python\n   - **Experience:** 2 years\n   - **Professional Development Highlights:** Active content creator\n   - **Resume Preview:** The candidate has experience as a Software Engineer at Cyperts Digital Solution Pvt Ltd, working on web applications, backend development, database management, and cloud services deployment on AWS. They are an active content creator, which shows a passion for sharing knowledge and continuous learning.\n\nBased on the provided information, Candidate 1 (Fardeen Khan) would be the best fit for the Data Engineer position due to a higher skills match, relevant experience, and professional development activities. Candidate 2 (Abhijit Suryawanshi) also shows potential with their experience and active content creation, but Candidate 1 aligns better with the skill requirements and experience level.",
+    "selection_criteria": "Based on job requirements and professional development",
+    "requirements_version": "2025-07-25T15:36:01.802944"
+  },
+  "qa_review": {
+    "qa_assessment": "The filtering process for the Data Engineer position seems to have been conducted effectively. Let's verify the specific points:\n\n1. **Skill Requirements Evaluation**: The skills required for the position include PostgreSQL, Docker, Django, Redis, Git, FastAPI, REST APIs, AWS, and Python. It is essential to ensure that the selected candidates possess these skills. \n\n2. **Experience Range**: The experience range specified is 5-7 years, and it is crucial to confirm that the final candidates meet this requirement.\n\n3. **Professional Development Consideration**: It is mentioned that professional development was considered during the filtering process. This indicates that the growth and learning potential of the candidates were taken into account.\n\n4. **Concerns**: No specific concerns are mentioned in the provided details.\n\n5. **Recommendations for Improvement**: It would be beneficial to include more specific details about how professional development was evaluated. Additionally, providing feedback to all applicants, even those who were not selected, can enhance the candidate experience and the employer brand.\n\nOverall, the process appears to have been thorough and aligned with the requirements for the Data Engineer position.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-25T16:31:09.358501"
+  },
+  "final_top_5": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\fardeen_20250724_095605.pdf",
+      "filename": "fardeen_20250724_095605.pdf",
+      "final_score": 0.3777222222222222,
+      "skill_score": 0.5555555555555556,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.011181938318305596,
+      "matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "AWS",
+        "Python"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "sql"
+        ],
+        "Docker": [
+          "docker"
+        ],
+        "Git": [
+          "git"
+        ],
+        "AWS": [
+          "aws"
+        ],
+        "Python": [
+          "python"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cks",
+              "ceh",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Data engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Docker",
+          "Django",
+          "Redis",
+          "Git",
+          "FastAPI",
+          "REST APIs",
+          "AWS",
+          "Python"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Mumbai, Maharashtra"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\faddf_20250724_095625.pdf",
+      "filename": "faddf_20250724_095625.pdf",
+      "final_score": 0.33377777777777784,
+      "skill_score": 0.4444444444444444,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.18000000000000002,
+      "similarity_score": 0.05881463613121072,
+      "matched_skills": [
+        "PostgreSQL",
+        "Git",
+        "REST APIs",
+        "AWS"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "postgresql"
+        ],
+        "Git": [
+          "git"
+        ],
+        "REST APIs": [
+          "rest",
+          "restful"
+        ],
+        "AWS": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.18000000000000002,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.9,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "blog"
+            ],
+            "github_activity": null,
+            "blog_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "blog"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Data engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Docker",
+          "Django",
+          "Redis",
+          "Git",
+          "FastAPI",
+          "REST APIs",
+          "AWS",
+          "Python"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Mumbai, Maharashtra"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

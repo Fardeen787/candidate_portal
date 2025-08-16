@@ -1,0 +1,31 @@
+{
+  "ticket_id": "f903fe248b",
+  "created_at": "2025-07-25T05:45:26.516742",
+  "folder_name": "f903fe248b_Re-hiring-ai-engineer",
+  "resumes": [
+    {
+      "filename": "sahil_20250725_054526.pdf",
+      "original_filename": "aana-1749893161572.pdf",
+      "uploaded_at": "2025-07-25T05:45:26.550320",
+      "applicant_name": "sahil",
+      "applicant_email": "adfadsfads",
+      "file_size": 167827
+    },
+    {
+      "filename": "fardeen_20250725_054655.pdf",
+      "original_filename": "fardeen-khan-1749910453789.pdf",
+      "uploaded_at": "2025-07-25T05:46:55.116320",
+      "applicant_name": "fardeen",
+      "applicant_email": "dsddsD",
+      "file_size": 44450
+    },
+    {
+      "filename": "SHUBAHM_20250725_055338.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-07-25T05:53:38.317038",
+      "applicant_name": "SHUBAHM",
+      "applicant_email": "adfadsfads",
+      "file_size": 1652
+    }
+  ]
+}

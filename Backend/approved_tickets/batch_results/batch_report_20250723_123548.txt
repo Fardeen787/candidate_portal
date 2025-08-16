@@ -1,0 +1,43 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-23 12:35:48
+
+STATISTICS:
+  Total Tickets: 4
+  Processed: 1
+  Skipped (Already Processed): 0
+  Errors: 3
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 74afd4b567_Re-Software-Developer-position
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: ERROR
+Error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+--------------------------------------------------
+
+Ticket ID: bfe785244b_Software-Engineer
+Status: COMPLETED
+Position: Software Engineer
+Resumes Processed: 3
+Top Candidates:
+  1. sahil_20250723_094038.pdf - 83.5%
+  2. vinay-kekan-1749892294110.pdf - 43.6%
+  3. shreshhshinde-1749894514118.docx - 43.6%
+
+--------------------------------------------------
+

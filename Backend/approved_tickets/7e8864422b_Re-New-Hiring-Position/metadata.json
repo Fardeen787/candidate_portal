@@ -1,0 +1,55 @@
+{
+  "ticket_id": "7e8864422b",
+  "created_at": "2025-07-23T12:04:05.553490",
+  "folder_name": "7e8864422b_Re-New-Hiring-Position",
+  "resumes": [
+    {
+      "filename": "Yahia__20250723_122029.pdf",
+      "original_filename": "fardeen-khan-1749910453789.pdf",
+      "uploaded_at": "2025-07-23T12:20:29.338395",
+      "applicant_name": "Yahia ",
+      "applicant_email": "yahia",
+      "file_size": 44450
+    },
+    {
+      "filename": "JOHN_20250723_122938.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-07-23T12:29:38.367769",
+      "applicant_name": "JOHN",
+      "applicant_email": "JOHN@gmail.com",
+      "file_size": 1652
+    },
+    {
+      "filename": "Smith_20250723_123008.pdf",
+      "original_filename": "fullstack_cv_2.pdf",
+      "uploaded_at": "2025-07-23T12:30:08.174607",
+      "applicant_name": "Smith",
+      "applicant_email": "Smith@gmail.com",
+      "file_size": 1657
+    },
+    {
+      "filename": "YAYA_20250723_123037.pdf",
+      "original_filename": "fullstack_cv_3.pdf",
+      "uploaded_at": "2025-07-23T12:30:37.369888",
+      "applicant_name": "YAYA",
+      "applicant_email": "YAYA@gmail.com",
+      "file_size": 1652
+    },
+    {
+      "filename": "WALID_20250723_123120.pdf",
+      "original_filename": "fullstack_cv_4.pdf",
+      "uploaded_at": "2025-07-23T12:31:20.255589",
+      "applicant_name": "WALID",
+      "applicant_email": "Walid@gmail.com",
+      "file_size": 1641
+    },
+    {
+      "filename": "JOE_20250723_123158.pdf",
+      "original_filename": "fullstack_cv_5.pdf",
+      "uploaded_at": "2025-07-23T12:31:58.223500",
+      "applicant_name": "JOE",
+      "applicant_email": "JOE@gmail.com",
+      "file_size": 1667
+    }
+  ]
+}

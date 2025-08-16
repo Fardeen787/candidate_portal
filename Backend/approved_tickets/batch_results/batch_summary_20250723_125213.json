@@ -1,0 +1,62 @@
+{
+  "batch_run_timestamp": "2025-07-23T12:52:13.473590",
+  "statistics": {
+    "total_tickets": 4,
+    "processed": 0,
+    "skipped": 1,
+    "errors": 3
+  },
+  "tickets": [
+    {
+      "ticket_id": "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "status": "error",
+      "timestamp": "2025-07-23T12:52:03.425714",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "74afd4b567_Re-Software-Developer-position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position",
+      "status": "error",
+      "timestamp": "2025-07-23T12:52:06.997844",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "7e8864422b_Re-New-Hiring-Position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position",
+      "status": "error",
+      "timestamp": "2025-07-23T12:52:11.438680",
+      "error_message": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+    },
+    {
+      "ticket_id": "bfe785244b_Software-Engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bfe785244b_Software-Engineer",
+      "status": "skipped",
+      "timestamp": "2025-07-23T12:52:13.472935",
+      "last_processed": "2025-07-23T12:35:48.234214"
+    }
+  ],
+  "tracker_summary": {
+    "total_processed": 3,
+    "tickets": {
+      "74afd4b567_Re-Software-Developer-position": {
+        "content_hash": "a6e2c58b262d4d7d92847eb9800fd9d8",
+        "last_processed": "2025-07-07T15:33:28.597453",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position\\filtering_results\\final_results_74afd4b567_Re-Software-Developer-position_20250707_153328.json",
+        "status": "completed"
+      },
+      "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin": {
+        "content_hash": "6c57f1db8e69b51d257fafe88aa1d604",
+        "last_processed": "2025-07-11T16:33:41.982556",
+        "results_file": "approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin\\filtering_results\\final_results_462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin_20250711_163341.json",
+        "status": "completed"
+      },
+      "bfe785244b_Software-Engineer": {
+        "content_hash": "13e4f9cb4046ef47da690fa1bcfec63a",
+        "last_processed": "2025-07-23T12:35:48.234214",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bfe785244b_Software-Engineer\\filtering_results\\final_results_bfe785244b_Software-Engineer_20250723_123548.json",
+        "status": "completed"
+      }
+    }
+  }
+}

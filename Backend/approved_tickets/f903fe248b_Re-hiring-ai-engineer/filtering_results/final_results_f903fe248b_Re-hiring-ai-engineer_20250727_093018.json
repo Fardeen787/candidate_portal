@@ -1,0 +1,1558 @@
+{
+  "ticket_id": "f903fe248b_Re-hiring-ai-engineer",
+  "position": "AI Engineer",
+  "timestamp": "2025-07-27T09:30:18.633870",
+  "job_status": "updated",
+  "requirements_last_updated": "2025-07-25T05:45:26.527945",
+  "latest_requirements": {
+    "experience": "6-7 years",
+    "tech_stack": [
+      "Redis",
+      "Git",
+      "Python",
+      "REST APIs",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Django"
+    ],
+    "location": "london",
+    "salary": "INR 10-15 Lakhs per annum",
+    "deadline": "29-07-2025"
+  },
+  "summary": {
+    "total_resumes": 3,
+    "stage1_selected": 3,
+    "final_selected": 3
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\fardeen_20250725_054655.pdf",
+        "filename": "fardeen_20250725_054655.pdf",
+        "final_score": 0.3577222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "Git",
+          "Python",
+          "PostgreSQL",
+          "Docker",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "Python": [
+            "python"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cks",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\sahil_20250725_054526.pdf",
+        "filename": "sahil_20250725_054526.pdf",
+        "final_score": 0.3137777777777778,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\SHUBAHM_20250725_055338.pdf",
+        "filename": "SHUBAHM_20250725_055338.pdf",
+        "final_score": 0.13333333333333333,
+        "skill_score": 0.3333333333333333,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.052317291508187605,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest apis"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\fardeen_20250725_054655.pdf",
+        "filename": "fardeen_20250725_054655.pdf",
+        "final_score": 0.3577222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "Git",
+          "Python",
+          "PostgreSQL",
+          "Docker",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "Python": [
+            "python"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cks",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\sahil_20250725_054526.pdf",
+        "filename": "sahil_20250725_054526.pdf",
+        "final_score": 0.3137777777777778,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\SHUBAHM_20250725_055338.pdf",
+        "filename": "SHUBAHM_20250725_055338.pdf",
+        "final_score": 0.13333333333333333,
+        "skill_score": 0.3333333333333333,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.052317291508187605,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest apis"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        }
+      }
+    ],
+    "agent_review": "Based on the provided information, here is the assessment of each candidate:\n\n1. Fardeen:\n   - Overall Score: 35.8%\n   - Skill Match: 55.6% (5/9)\n   - Experience: 2 years (Score: 33.3%)\n   - Location Match: No\n   - Professional Development: Minimal - Little evidence of continuous learning\n   - Meets Required Skills: Git, Python, PostgreSQL, Docker, AWS\n   - Missing Skills: Redis, REST APIs, FastAPI, Django\n   - Does not meet all the required skills.\n   - Professional development is minimal.\n\n2. Sahil:\n   - Overall Score: 31.4%\n   - Skill Match: 44.4% (4/9)\n   - Experience: 2 years (Score: 33.3%)\n   - Location Match: No\n   - Professional Development: Minimal - Little evidence of continuous learning\n   - Meets Required Skills: Git, REST APIs, PostgreSQL, AWS\n   - Missing Skills: Redis, Python, FastAPI, Docker, Django\n   - Does not meet all the required skills.\n   - Professional development is minimal.\n\n3. Shubham:\n   - Overall Score: 13.3%\n   - Skill Match: 33.3% (3/9)\n   - Experience: 0 years (Score: 0.0%)\n   - Location Match: No\n   - Professional Development: Minimal - Little evidence of continuous learning\n   - Meets Required Skills: Git, REST APIs, Docker\n   - Missing Skills: Redis, Python, FastAPI, PostgreSQL, AWS, Django\n   - Does not meet all the required skills.\n   - No professional development evidence.\n\nNone of the candidates meet all the required skills for the AI Engineer position. They are missing skills such as Redis, FastAPI, and Django. Additionally, their professional development levels are minimal. Consider continuing the search for candidates who meet the specified requirements.",
+    "scoring_criteria": {
+      "skills_required": [
+        "Redis",
+        "Git",
+        "Python",
+        "REST APIs",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Django"
+      ],
+      "experience_range": "6-7 years",
+      "location": "london"
+    },
+    "duplicates_found": 0
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\fardeen_20250725_054655.pdf",
+        "filename": "fardeen_20250725_054655.pdf",
+        "final_score": 0.3577222222222222,
+        "skill_score": 0.5555555555555556,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.011181938318305596,
+        "matched_skills": [
+          "Git",
+          "Python",
+          "PostgreSQL",
+          "Docker",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "Python": [
+            "python"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "ceh",
+                "cks",
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\sahil_20250725_054526.pdf",
+        "filename": "sahil_20250725_054526.pdf",
+        "final_score": 0.3137777777777778,
+        "skill_score": 0.4444444444444444,
+        "experience_score": 0.3333333333333333,
+        "location_score": 0.0,
+        "professional_development_score": 0.18000000000000002,
+        "similarity_score": 0.05881463613121072,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest",
+            "restful"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "AWS": [
+            "aws"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.18000000000000002,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.9,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "blog"
+              ],
+              "github_activity": null,
+              "blog_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "blog"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\SHUBAHM_20250725_055338.pdf",
+        "filename": "SHUBAHM_20250725_055338.pdf",
+        "final_score": 0.13333333333333333,
+        "skill_score": 0.3333333333333333,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.052317291508187605,
+        "matched_skills": [
+          "Git",
+          "REST APIs",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Git": [
+            "git"
+          ],
+          "REST APIs": [
+            "rest apis"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "AI Engineer",
+          "required_skills": [
+            "Redis",
+            "Git",
+            "Python",
+            "REST APIs",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "Django"
+          ],
+          "required_experience": "6-7 years",
+          "location": "london"
+        },
+        "final_rank": 3,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the requirements for the AI Engineer role in London, here are the rankings of the candidates:\n\n1. **Candidate 1 (Fardeen Khan)**\n   - **Overall Score:** 35.8%\n   - **Matched Skills:** Git, Python, PostgreSQL, Docker, AWS\n   - **Missing Skills:** Redis, REST APIs, FastAPI, Django\n   - **Experience:** 2 years\n   - **Professional Development:** Holds 3 professional certifications\n   - **Reasoning:** Fardeen has a good match with the required skills, relevant experience, and holds professional certifications, indicating a commitment to continuous learning and growth.\n\n2. **Candidate 2 (Sahil)**\n   - **Overall Score:** 31.4%\n   - **Matched Skills:** Git, REST APIs, PostgreSQL, AWS\n   - **Missing Skills:** Redis, Python, FastAPI, Docker, Django\n   - **Experience:** 2 years\n   - **Professional Development:** Active content creator\n   - **Reasoning:** Sahil has some of the required skills and experience, but lacks key skills like Python and Redis. The active content creation is a positive indicator of engagement in the field.\n\n3. **Candidate 3 (Shubham)**\n   - **Overall Score:** 13.3%\n   - **Matched Skills:** Git, REST APIs, Docker\n   - **Missing Skills:** Redis, Python, FastAPI, PostgreSQL, AWS, Django\n   - **Experience:** 0 years\n   - **Professional Development:** N/A\n   - **Reasoning:** Shubham lacks the majority of the required skills and experience for the role, making them less suitable for the position.\n\nIn summary, Fardeen Khan is the top candidate for the AI Engineer role in London, followed by Sahil. Shubham does not meet the skill and experience requirements for the position.",
+    "selection_criteria": "Based on job requirements and professional development",
+    "requirements_version": "2025-07-25T05:45:26.527945"
+  },
+  "qa_review": {
+    "qa_assessment": "The filtering process for the AI Engineer position seems to have been evaluated based on the specified requirements. Let's verify each point:\n\n1. **Skill Requirements Evaluation**: The skills listed in the job requirements (Redis, Git, Python, REST APIs, FastAPI, PostgreSQL, Docker, AWS, Django) were properly evaluated in the filtering process.\n   \n2. **Experience Match**: The experience range of 6-7 years aligns with the specified requirement for the position.\n   \n3. **Professional Development Consideration**: It is mentioned that professional development was considered, which is a positive aspect indicating a holistic approach to candidate evaluation.\n   \n4. **Concerns**: There are no specific concerns mentioned in the summary provided.\n   \n5. **Recommendations for Improvement**: It would be beneficial to include more details on how professional development was considered in the process, such as specific criteria or assessments used. Additionally, providing feedback to all candidates in the process can enhance the candidate experience and reflect positively on the company.\n\nOverall, the filtering process seems to have met the requirements specified for the AI Engineer position.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-27T09:30:18.633870"
+  },
+  "final_top_5": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\fardeen_20250725_054655.pdf",
+      "filename": "fardeen_20250725_054655.pdf",
+      "final_score": 0.3577222222222222,
+      "skill_score": 0.5555555555555556,
+      "experience_score": 0.3333333333333333,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.011181938318305596,
+      "matched_skills": [
+        "Git",
+        "Python",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ],
+      "detailed_skill_matches": {
+        "Git": [
+          "git"
+        ],
+        "Python": [
+          "python"
+        ],
+        "PostgreSQL": [
+          "sql"
+        ],
+        "Docker": [
+          "docker"
+        ],
+        "AWS": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "ceh",
+              "cks",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "AI Engineer",
+        "required_skills": [
+          "Redis",
+          "Git",
+          "Python",
+          "REST APIs",
+          "FastAPI",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Django"
+        ],
+        "required_experience": "6-7 years",
+        "location": "london"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\sahil_20250725_054526.pdf",
+      "filename": "sahil_20250725_054526.pdf",
+      "final_score": 0.3137777777777778,
+      "skill_score": 0.4444444444444444,
+      "experience_score": 0.3333333333333333,
+      "location_score": 0.0,
+      "professional_development_score": 0.18000000000000002,
+      "similarity_score": 0.05881463613121072,
+      "matched_skills": [
+        "Git",
+        "REST APIs",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "detailed_skill_matches": {
+        "Git": [
+          "git"
+        ],
+        "REST APIs": [
+          "rest",
+          "restful"
+        ],
+        "PostgreSQL": [
+          "postgresql"
+        ],
+        "AWS": [
+          "aws"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.18000000000000002,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.9,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "blog"
+            ],
+            "github_activity": null,
+            "blog_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "blog"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "AI Engineer",
+        "required_skills": [
+          "Redis",
+          "Git",
+          "Python",
+          "REST APIs",
+          "FastAPI",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Django"
+        ],
+        "required_experience": "6-7 years",
+        "location": "london"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\SHUBAHM_20250725_055338.pdf",
+      "filename": "SHUBAHM_20250725_055338.pdf",
+      "final_score": 0.13333333333333333,
+      "skill_score": 0.3333333333333333,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.052317291508187605,
+      "matched_skills": [
+        "Git",
+        "REST APIs",
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Git": [
+          "git"
+        ],
+        "REST APIs": [
+          "rest apis"
+        ],
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "AI Engineer",
+        "required_skills": [
+          "Redis",
+          "Git",
+          "Python",
+          "REST APIs",
+          "FastAPI",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Django"
+        ],
+        "required_experience": "6-7 years",
+        "location": "london"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

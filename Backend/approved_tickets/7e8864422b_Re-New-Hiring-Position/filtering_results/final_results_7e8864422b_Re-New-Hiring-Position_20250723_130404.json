@@ -1,0 +1,1041 @@
+{
+  "ticket_id": "7e8864422b_Re-New-Hiring-Position",
+  "position": "Fullsatck engineer",
+  "timestamp": "2025-07-23T13:04:04.483804",
+  "job_status": "posted",
+  "requirements_last_updated": "2025-07-23T12:04:05.563503",
+  "latest_requirements": {
+    "experience": "5-7 years",
+    "tech_stack": [
+      "Python",
+      "AWS",
+      "PostgreSQL",
+      "Docker",
+      "Django"
+    ],
+    "location": "Texas, United States",
+    "salary": "30 000- 40 000 dollars",
+    "deadline": "August 15, 2025"
+  },
+  "summary": {
+    "total_resumes": 6,
+    "stage1_selected": 6,
+    "final_selected": 5
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Yahia__20250723_122029.pdf",
+        "filename": "Yahia__20250723_122029.pdf",
+        "final_score": 0.47000000000000003,
+        "skill_score": 0.8,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "similarity_score": 0.009707665249353636,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 1,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Smith_20250723_123008.pdf",
+        "filename": "Smith_20250723_123008.pdf",
+        "final_score": 0.4,
+        "skill_score": 0.8,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.023491355699729887,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Django"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Django": [
+            "django"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOE_20250723_123158.pdf",
+        "filename": "JOE_20250723_123158.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.04672126286913075,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 0,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOHN_20250723_122938.pdf",
+        "filename": "JOHN_20250723_122938.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.02219054234119928,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\YAYA_20250723_123037.pdf",
+        "filename": "YAYA_20250723_123037.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.011544127978497916,
+        "matched_skills": [
+          "PostgreSQL"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\WALID_20250723_123120.pdf",
+        "filename": "WALID_20250723_123120.pdf",
+        "final_score": 0.0,
+        "skill_score": 0.0,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.01196212587867622,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 1,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Yahia__20250723_122029.pdf",
+        "filename": "Yahia__20250723_122029.pdf",
+        "final_score": 0.47000000000000003,
+        "skill_score": 0.8,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "similarity_score": 0.009707665249353636,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 1,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Smith_20250723_123008.pdf",
+        "filename": "Smith_20250723_123008.pdf",
+        "final_score": 0.4,
+        "skill_score": 0.8,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.023491355699729887,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Django"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Django": [
+            "django"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOE_20250723_123158.pdf",
+        "filename": "JOE_20250723_123158.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.04672126286913075,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 0,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOHN_20250723_122938.pdf",
+        "filename": "JOHN_20250723_122938.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.02219054234119928,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\YAYA_20250723_123037.pdf",
+        "filename": "YAYA_20250723_123037.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.011544127978497916,
+        "matched_skills": [
+          "PostgreSQL"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\WALID_20250723_123120.pdf",
+        "filename": "WALID_20250723_123120.pdf",
+        "final_score": 0.0,
+        "skill_score": 0.0,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.01196212587867622,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 1,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        }
+      }
+    ],
+    "agent_review": "Based on the provided requirements, I will review each candidate and flag those who do not meet the criteria.\n\n**Candidate 1: Yahia**\n- Experience: 1 year (does not meet the 5-7 year requirement)\n- Skills: \n  - Matched skills: Python, AWS, PostgreSQL, Docker\n  - Missing skills: Django\n- Location: No match\n- Overall score: 47.0%\n- Flagged: Yes (does not meet experience requirement)\n\n**Candidate 2: Smith**\n- Experience: 0 years (does not meet the 5-7 year requirement)\n- Skills: \n  - Matched skills: Python, AWS, PostgreSQL, Django\n  - Missing skills: Docker\n- Location: No match\n- Overall score: 40.0%\n- Flagged: Yes (does not meet experience requirement)\n\n**Candidate 3: JOE**\n- Experience: 0 years (does not meet the 5-7 year requirement)\n- Skills: \n  - Matched skills: Docker\n  - Missing skills: Python, AWS, PostgreSQL, Django\n- Location: No match\n- Overall score: 10.0%\n- Flagged: Yes (does not meet experience and skill requirements)\n\n**Candidate 4: JOHN**\n- Experience: 0 years (does not meet the 5-7 year requirement)\n- Skills: \n  - Matched skills: Docker\n  - Missing skills: Python, AWS, PostgreSQL, Django\n- Location: No match\n- Overall score: 10.0%\n- Flagged: Yes (does not meet experience and skill requirements)\n\n**Candidate 5: YAYA**\n- Experience: 0 years (does not meet the 5-7 year requirement)\n- Skills: \n  - Matched skills: PostgreSQL\n  - Missing skills: Python, AWS, Docker, Django\n- Location: No match\n- Overall score: 10.0%\n- Flagged: Yes (does not meet experience and skill requirements)\n\nBased on the review, all candidates do not meet the experience requirement of 5-7 years. Additionally, none of the candidates have all the required skills, specifically Django.",
+    "scoring_criteria": {
+      "skills_required": [
+        "Python",
+        "AWS",
+        "PostgreSQL",
+        "Docker",
+        "Django"
+      ],
+      "experience_range": "5-7 years",
+      "location": "Texas, United States"
+    }
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Yahia__20250723_122029.pdf",
+        "filename": "Yahia__20250723_122029.pdf",
+        "final_score": 0.47000000000000003,
+        "skill_score": 0.8,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "similarity_score": 0.009707665249353636,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "sql"
+          ],
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 1,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Smith_20250723_123008.pdf",
+        "filename": "Smith_20250723_123008.pdf",
+        "final_score": 0.4,
+        "skill_score": 0.8,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.023491355699729887,
+        "matched_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Django"
+        ],
+        "detailed_skill_matches": {
+          "Python": [
+            "python"
+          ],
+          "AWS": [
+            "aws"
+          ],
+          "PostgreSQL": [
+            "postgresql"
+          ],
+          "Django": [
+            "django"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": false,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOE_20250723_123158.pdf",
+        "filename": "JOE_20250723_123158.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.04672126286913075,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 0,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        },
+        "final_rank": 3,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOHN_20250723_122938.pdf",
+        "filename": "JOHN_20250723_122938.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.02219054234119928,
+        "matched_skills": [
+          "Docker"
+        ],
+        "detailed_skill_matches": {
+          "Docker": [
+            "docker"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        },
+        "final_rank": 4,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\YAYA_20250723_123037.pdf",
+        "filename": "YAYA_20250723_123037.pdf",
+        "final_score": 0.1,
+        "skill_score": 0.2,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "similarity_score": 0.011544127978497916,
+        "matched_skills": [
+          "PostgreSQL"
+        ],
+        "detailed_skill_matches": {
+          "PostgreSQL": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 0,
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.5,
+          "experience": 0.35,
+          "location": 0.15
+        },
+        "job_requirements_used": {
+          "position": "Fullsatck engineer",
+          "required_skills": [
+            "Python",
+            "AWS",
+            "PostgreSQL",
+            "Docker",
+            "Django"
+          ],
+          "required_experience": "5-7 years",
+          "location": "Texas, United States"
+        },
+        "final_rank": 5,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the provided requirements and candidate data, I will evaluate and rank the candidates. \n\nThe requirements are:\n- Experience Range: 5-7 years\n- Must-Have Skills: Python, AWS, PostgreSQL, Docker, Django\n- Location: Texas, United States\n- Salary Budget: 30 000- 40 000 dollars\n\nHowever, the location and salary budget are not provided in the candidate data, so I will focus on the experience range and must-have skills.\n\nNone of the candidates meet the experience range requirement of 5-7 years, as all of them have 0 or 1 year of experience. However, I will still evaluate them based on the must-have skills.\n\n1. **Candidate 1**: Matches 4 out of 5 must-have skills (missing Django). Although this candidate has the most matched skills, their experience is only 1 year, which is below the required range.\n2. **Candidate 2**: Matches 4 out of 5 must-have skills (missing Docker). This candidate has 0 years of experience, which is a significant gap.\n\nGiven the significant gap in experience for all candidates, it's challenging to select the top candidates based solely on the provided data. However, if I had to choose, I would consider Candidate 1 as the most suitable, despite not meeting the experience requirement, due to having the most matched skills.\n\nSince none of the candidates meet the experience requirement, and considering the must-have skills, I would not be able to select the top 5 candidates from this pool. It's essential to find candidates who meet the experience range and have the required skills.\n\nIf I had to rank the candidates based on the skills alone, the ranking would be:\n1. Candidate 1\n2. Candidate 2\n3. Candidate 5 (matches 1 skill)\n4. Candidate 3 (matches 1 skill)\n5. Candidate 4 (matches 1 skill)\n\nPlease note that this ranking is not ideal, as none of the candidates meet the experience requirement. A new search with a focus on experience and skills would be necessary to find suitable candidates.",
+    "selection_criteria": "Based on job requirements",
+    "requirements_version": "2025-07-23T12:04:05.563503"
+  },
+  "qa_review": {
+    "qa_assessment": "**Verification Report**\n\nBased on the provided information, here's a review of the filtering process:\n\n1. **Skill Requirements Evaluation**: The report does not provide specific details on how the skill requirements were evaluated. It is assumed that the top candidates selected possess the required skills (Python, AWS, PostgreSQL, Docker, Django), but there is no explicit confirmation. To improve, it's recommended to include a skills assessment matrix or a summary of how each candidate's skills align with the requirements.\n\n2. **Experience Range**: The report does not provide information on the experience range of the selected candidates. It is unclear whether the chosen candidates fall within the required 5-7 years of experience. To verify, it's essential to review the resumes or profiles of the final candidates to ensure they meet the experience requirement.\n\n3. **Concerns about the Process**: The primary concern is the lack of transparency in the evaluation process. The report does not provide sufficient details on how the candidates were assessed, making it challenging to verify whether the requirements were properly evaluated. Additionally, the salary range of $30,000 - $40,000 seems relatively low for a full-stack engineer with 5-7 years of experience, which may indicate a potential issue with the compensation package.\n\n4. **Recommendations for Improvement**:\n\t* Include a detailed skills assessment matrix to evaluate candidates' technical skills.\n\t* Provide explicit confirmation that the selected candidates meet the experience range requirement.\n\t* Consider reviewing the compensation package to ensure it's competitive and aligned with industry standards.\n\t* Increase transparency in the evaluation process by providing a clear summary of the assessment criteria and candidate evaluations.\n\t* Review the location requirement (Texas, United States) to ensure it was properly considered during the candidate selection process.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-23T13:04:04.483804"
+  },
+  "final_top_5": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Yahia__20250723_122029.pdf",
+      "filename": "Yahia__20250723_122029.pdf",
+      "final_score": 0.47000000000000003,
+      "skill_score": 0.8,
+      "experience_score": 0.2,
+      "location_score": 0.0,
+      "similarity_score": 0.009707665249353636,
+      "matched_skills": [
+        "Python",
+        "AWS",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Python": [
+          "python"
+        ],
+        "AWS": [
+          "aws"
+        ],
+        "PostgreSQL": [
+          "sql"
+        ],
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 1,
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.5,
+        "experience": 0.35,
+        "location": 0.15
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Smith_20250723_123008.pdf",
+      "filename": "Smith_20250723_123008.pdf",
+      "final_score": 0.4,
+      "skill_score": 0.8,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "similarity_score": 0.023491355699729887,
+      "matched_skills": [
+        "Python",
+        "AWS",
+        "PostgreSQL",
+        "Django"
+      ],
+      "detailed_skill_matches": {
+        "Python": [
+          "python"
+        ],
+        "AWS": [
+          "aws"
+        ],
+        "PostgreSQL": [
+          "postgresql"
+        ],
+        "Django": [
+          "django"
+        ]
+      },
+      "detected_experience_years": 0,
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.5,
+        "experience": 0.35,
+        "location": 0.15
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOE_20250723_123158.pdf",
+      "filename": "JOE_20250723_123158.pdf",
+      "final_score": 0.1,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "similarity_score": 0.04672126286913075,
+      "matched_skills": [
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 0,
+      "additional_features": {
+        "education_level": 0,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.5,
+        "experience": 0.35,
+        "location": 0.15
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOHN_20250723_122938.pdf",
+      "filename": "JOHN_20250723_122938.pdf",
+      "final_score": 0.1,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "similarity_score": 0.02219054234119928,
+      "matched_skills": [
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 0,
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.5,
+        "experience": 0.35,
+        "location": 0.15
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 4,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\YAYA_20250723_123037.pdf",
+      "filename": "YAYA_20250723_123037.pdf",
+      "final_score": 0.1,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "similarity_score": 0.011544127978497916,
+      "matched_skills": [
+        "PostgreSQL"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "sql"
+        ]
+      },
+      "detected_experience_years": 0,
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.5,
+        "experience": 0.35,
+        "location": 0.15
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "Python",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 5,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

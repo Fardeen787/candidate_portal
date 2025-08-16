@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "bbc59b842d",
+    "source": "chat",
+    "sender": "user_b1d0bb93",
+    "user_id": "user_b1d0bb93",
+    "subject": "Cloud engineer",
+    "session_id": "9449c2cf-3f30-47dd-b6e3-6e1b7af07e67",
+    "created_at": "2025-07-24T16:00:39",
+    "last_updated": "2025-07-24T16:01:53",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-24T16:01:53",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "25-07-2025",
+    "employment_type": "Full-time",
+    "experience_required": "10",
+    "job_description": "have experice with aws,azure,gcp,teraform",
+    "job_title": "Cloud engineer",
+    "location": "paris",
+    "required_skills": "aws,azure,gcp,teraform",
+    "salary_range": "50k to 60k"
+  },
+  "saved_at": "2025-08-13T11:00:38.897735"
+}

@@ -1,0 +1,48 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-24 09:44:01
+
+STATISTICS:
+  Total Tickets: 4
+  Processed: 2
+  Skipped (Already Processed): 0
+  Errors: 2
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 228d9ec206_software-developer
+Status: COMPLETED
+Position: software developer
+Resumes Processed: 3
+Top Candidates:
+  1. sahil_20250724_093947.pdf - 44.0%
+  2. khan_20250724_094006.pdf - 20.0%
+  3. King_20250724_093910.pdf - 0.0%
+
+--------------------------------------------------
+
+Ticket ID: 462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 74afd4b567_Re-Software-Developer-position
+Status: ERROR
+Error: No resumes found in the ticket folder
+
+--------------------------------------------------
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: COMPLETED
+Position: Fullsatck engineer
+Resumes Processed: 6
+Top Candidates:
+  1. Yahia__20250723_122029.pdf - 47.6%
+  2. Smith_20250723_123008.pdf - 36.0%
+  3. JOE_20250723_123158.pdf - 8.0%
+
+--------------------------------------------------
+

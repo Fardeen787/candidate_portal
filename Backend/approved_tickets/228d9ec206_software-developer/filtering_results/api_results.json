@@ -1,0 +1,42 @@
+{
+  "status": "completed",
+  "ticket_id": "228d9ec206_software-developer",
+  "total_resumes": 3,
+  "top_candidates": [
+    {
+      "rank": 1,
+      "filename": "sahil_20250724_093947.pdf",
+      "score": 0.44000000000000006,
+      "skill_score": 1.0,
+      "experience_score": 0.0,
+      "professional_development_score": 0.2,
+      "matched_skills": [
+        "PYTHON",
+        "SQL"
+      ],
+      "experience_years": 0
+    },
+    {
+      "rank": 2,
+      "filename": "khan_20250724_094006.pdf",
+      "score": 0.2,
+      "skill_score": 0.5,
+      "experience_score": 0.0,
+      "professional_development_score": 0.0,
+      "matched_skills": [
+        "SQL"
+      ],
+      "experience_years": 0
+    },
+    {
+      "rank": 3,
+      "filename": "King_20250724_093910.pdf",
+      "score": 0.0,
+      "skill_score": 0.0,
+      "experience_score": 0.0,
+      "professional_development_score": 0.0,
+      "matched_skills": [],
+      "experience_years": 0
+    }
+  ]
+}

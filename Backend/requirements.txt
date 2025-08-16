@@ -1,0 +1,56 @@
+# Flask and Web Framework
+Flask==2.3.3
+flask-cors==4.0.0
+Werkzeug==2.3.7
+
+# MySQL Database
+mysql-connector-python==8.2.0
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Data Science and ML
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+scipy==1.11.2
+
+# NLP
+spacy==3.7.2
+
+# AutoGen for AI Agents
+pyautogen==0.2.0
+
+# Email Processing
+secure-smtplib==0.1.1
+
+# HTTP Requests
+requests==2.31.0
+
+# Cloudflare Tunnel (optional - installed separately)
+# cloudflared - installed via system package manager
+
+# Additional Python Standard Library modules used (already included):
+# - imaplib
+# - email
+# - os
+# - sys
+# - re
+# - json
+# - datetime
+# - hashlib
+# - typing
+# - logging
+# - subprocess
+# - threading
+# - time
+# - signal
+# - shutil
+# - tempfile
+# - secrets
+# - string
+# - functools
+# - contextlib
+# - pathlib
+# - base64

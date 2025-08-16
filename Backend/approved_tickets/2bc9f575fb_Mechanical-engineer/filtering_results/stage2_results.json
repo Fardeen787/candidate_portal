@@ -1,0 +1,522 @@
+{
+  "top_5_candidates": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2bc9f575fb_Mechanical-engineer\\Mark_RING_20250801_175017.pdf",
+      "filename": "Mark_RING_20250801_175017.pdf",
+      "final_score": 0.38461538461538464,
+      "skill_score": 0.46153846153846156,
+      "experience_score": 0.625,
+      "location_score": 0.0,
+      "professional_development_score": 0.0625,
+      "similarity_score": 0.18962742928330917,
+      "matched_skills": [
+        "project management software",
+        "3D modeling",
+        "MATLAB)",
+        "fluid mechanics",
+        "AutoCAD)",
+        "quality control"
+      ],
+      "detailed_skill_matches": {
+        "project management software": [
+          "project management software"
+        ],
+        "3D modeling": [
+          "3d modeling"
+        ],
+        "MATLAB)": [
+          "matlab)"
+        ],
+        "fluid mechanics": [
+          "fluid mechanics"
+        ],
+        "AutoCAD)": [
+          "autocad)"
+        ],
+        "quality control": [
+          "quality control"
+        ]
+      },
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0625,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "pmp"
+            ],
+            "certification_categories": {
+              "agile": [
+                "pmp"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 2,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": true
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "agile"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 2,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Mechanical engineer",
+        "required_skills": [
+          "project management software",
+          "and safety compliance for delivering successful engineering solutions.",
+          "3D modeling",
+          "and materials science. They require proficiency in simulation tools (ANSYS",
+          "problem-solving",
+          "MATLAB)",
+          "fluid mechanics",
+          "and finite element analysis combined with strong fundamentals in thermodynamics",
+          "AutoCAD)",
+          "and manufacturing processes knowledge. Essential skills include technical communication",
+          "project planning",
+          "quality control",
+          "Mechanical Engineers need CAD software expertise (SolidWorks"
+        ],
+        "required_experience": "8-10",
+        "location": "Paris"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2bc9f575fb_Mechanical-engineer\\RAJESH_KUMAR_SHARMA__20250801_175104.pdf",
+      "filename": "RAJESH_KUMAR_SHARMA__20250801_175104.pdf",
+      "final_score": 0.38461538461538464,
+      "skill_score": 0.46153846153846156,
+      "experience_score": 0.625,
+      "location_score": 0.0,
+      "professional_development_score": 0.0625,
+      "similarity_score": 0.18748619594576083,
+      "matched_skills": [
+        "project management software",
+        "3D modeling",
+        "MATLAB)",
+        "fluid mechanics",
+        "AutoCAD)",
+        "quality control"
+      ],
+      "detailed_skill_matches": {
+        "project management software": [
+          "project management software"
+        ],
+        "3D modeling": [
+          "3d modeling"
+        ],
+        "MATLAB)": [
+          "matlab)"
+        ],
+        "fluid mechanics": [
+          "fluid mechanics"
+        ],
+        "AutoCAD)": [
+          "autocad)"
+        ],
+        "quality control": [
+          "quality control"
+        ]
+      },
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0625,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "pmp"
+            ],
+            "certification_categories": {
+              "agile": [
+                "pmp"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 2,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": true
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "agile"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 2,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Mechanical engineer",
+        "required_skills": [
+          "project management software",
+          "and safety compliance for delivering successful engineering solutions.",
+          "3D modeling",
+          "and materials science. They require proficiency in simulation tools (ANSYS",
+          "problem-solving",
+          "MATLAB)",
+          "fluid mechanics",
+          "and finite element analysis combined with strong fundamentals in thermodynamics",
+          "AutoCAD)",
+          "and manufacturing processes knowledge. Essential skills include technical communication",
+          "project planning",
+          "quality control",
+          "Mechanical Engineers need CAD software expertise (SolidWorks"
+        ],
+        "required_experience": "8-10",
+        "location": "Paris"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2bc9f575fb_Mechanical-engineer\\MICHAEL_RODRIGUEZ__20250727_134854.pdf",
+      "filename": "MICHAEL_RODRIGUEZ__20250727_134854.pdf",
+      "final_score": 0.2145,
+      "skill_score": 0.0,
+      "experience_score": 0.5,
+      "location_score": 0.0,
+      "professional_development_score": 0.3225,
+      "similarity_score": 0.024731820531714337,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.3225,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.6,
+            "certifications_found": [
+              "gsec"
+            ],
+            "certification_categories": {
+              "security": [
+                "gsec"
+              ]
+            },
+            "years_detected": [
+              2022,
+              2021
+            ]
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Mechanical engineer",
+        "required_skills": [
+          "project management software",
+          "and safety compliance for delivering successful engineering solutions.",
+          "3D modeling",
+          "and materials science. They require proficiency in simulation tools (ANSYS",
+          "problem-solving",
+          "MATLAB)",
+          "fluid mechanics",
+          "and finite element analysis combined with strong fundamentals in thermodynamics",
+          "AutoCAD)",
+          "and manufacturing processes knowledge. Essential skills include technical communication",
+          "project planning",
+          "quality control",
+          "Mechanical Engineers need CAD software expertise (SolidWorks"
+        ],
+        "required_experience": "8-10",
+        "location": "Paris"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2bc9f575fb_Mechanical-engineer\\Shubham_Khandelwal_20250804_083630.pdf",
+      "filename": "Shubham_Khandelwal_20250804_083630.pdf",
+      "final_score": 0.09753846153846155,
+      "skill_score": 0.15384615384615385,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.18000000000000002,
+      "similarity_score": 0.016748466450901545,
+      "matched_skills": [
+        "problem-solving",
+        "project planning"
+      ],
+      "detailed_skill_matches": {
+        "problem-solving": [
+          "problem-solving"
+        ],
+        "project planning": [
+          "project planning"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.18000000000000002,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.9,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "blog"
+            ],
+            "github_activity": null,
+            "blog_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "blog"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Mechanical engineer",
+        "required_skills": [
+          "project management software",
+          "and safety compliance for delivering successful engineering solutions.",
+          "3D modeling",
+          "and materials science. They require proficiency in simulation tools (ANSYS",
+          "problem-solving",
+          "MATLAB)",
+          "fluid mechanics",
+          "and finite element analysis combined with strong fundamentals in thermodynamics",
+          "AutoCAD)",
+          "and manufacturing processes knowledge. Essential skills include technical communication",
+          "project planning",
+          "quality control",
+          "Mechanical Engineers need CAD software expertise (SolidWorks"
+        ],
+        "required_experience": "8-10",
+        "location": "Paris"
+      },
+      "final_rank": 4,
+      "selection_reason": "Strong match for requirements"
+    }
+  ],
+  "detailed_analysis": "Based on the requirements for a Mechanical Engineer in Paris with 8-10 years of experience and specific skills in project management software, safety compliance, 3D modeling, materials science, simulation tools (ANSYS, MATLAB), fluid mechanics, finite element analysis, thermodynamics, AutoCAD, and manufacturing processes knowledge, here is the ranking of the candidates:\n\n1. **Candidate 1 (Mark RING)**\n   - Overall Score: 38.5%\n   - Experience: 5 years\n   - Matched Skills: project management software, 3D modeling, MATLAB, fluid mechanics, AutoCAD, quality control\n   - Missing Skills: safety compliance, materials science, ANSYS, problem-solving, thermodynamics, manufacturing processes, project planning, SolidWorks expertise\n   - Professional Development: Not specified\n   - Notes: While the candidate has relevant experience and some matched skills, they lack key skills like safety compliance, ANSYS proficiency, and SolidWorks expertise.\n\n2. **Candidate 2 (RAJESH KUMAR SHARMA)**\n   - Overall Score: 38.5%\n   - Experience: 5 years\n   - Matched Skills: project management software, 3D modeling, MATLAB, fluid mechanics, AutoCAD, quality control\n   - Missing Skills: safety compliance, materials science, ANSYS, problem-solving, thermodynamics, manufacturing processes, project planning, SolidWorks expertise\n   - Professional Development: Not specified\n   - Notes: Similar to Candidate 1, Candidate 2 lacks key skills like safety compliance, ANSYS proficiency, and SolidWorks expertise.\n\n3. **Candidate 3 (MICHAEL RODRIGUEZ)**\n   - Overall Score: 21.4%\n   - Experience: 4 years\n   - Matched Skills: None\n   - Missing Skills: project management software, safety compliance, 3D modeling, materials science, ANSYS, problem-solving, MATLAB, fluid mechanics, thermodynamics, AutoCAD, manufacturing processes, project planning, quality control, SolidWorks expertise\n   - Professional Development: Active content creator\n   - Notes: While the candidate shows professional development activities, they lack most of the essential skills required for the Mechanical Engineer role.\n\n4. **Candidate 4 (Shubham Khandelwal)**\n   - Overall Score: 9.8%\n   - Experience: 0 years\n   - Matched Skills: problem-solving, project planning\n   - Missing Skills: project management software, safety compliance, 3D modeling, materials science, ANSYS, MATLAB, fluid mechanics, thermodynamics, AutoCAD, manufacturing processes, quality control, SolidWorks expertise\n   - Professional Development: Active content creator\n   - Notes: The candidate lacks experience and most of the essential skills required for the Mechanical Engineer role.\n\nBased on the evaluation, none of the candidates fully meet the requirements for the Mechanical Engineer position in Paris. It would be advisable to continue the search for candidates with a stronger match to the specified skills and experience criteria.",
+  "selection_criteria": "Based on job requirements and professional development",
+  "requirements_version": "2025-08-02T14:08:59.408091"
+}

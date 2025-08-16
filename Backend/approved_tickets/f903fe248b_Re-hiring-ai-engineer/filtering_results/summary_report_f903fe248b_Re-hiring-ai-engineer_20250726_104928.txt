@@ -1,0 +1,88 @@
+RESUME FILTERING SUMMARY REPORT
+======================================================================
+
+Job Ticket ID: f903fe248b_Re-hiring-ai-engineer
+Position: AI Engineer
+Report Generated: 2025-07-26T10:49:28.805881
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 6-7 years
+Skills: Python, Django, AWS, Git, REST APIs, Docker, FastAPI, PostgreSQL, Redis
+Location: london
+Salary: INR 10-15 Lakhs per annum
+Deadline: 29-07-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Processed: 3
+Final Selected: 3
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. fardeen_20250725_054655.pdf
+   Overall Score: 35.8%
+   Skill Match: 55.6% (5/9 skills)
+   Matched Skills: Python, AWS, Git, Docker, PostgreSQL
+   Experience: 2 years (Score: 33.3%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 17.8%
+   Level: Minimal - Little evidence of continuous learning
+   Certifications: 3 found
+     Categories: devops, security
+   Key Highlights:
+     • Has 3 professional certifications
+
+2. sahil_20250725_054526.pdf
+   Overall Score: 31.4%
+   Skill Match: 44.4% (4/9 skills)
+   Matched Skills: AWS, Git, REST APIs, PostgreSQL
+   Experience: 2 years (Score: 33.3%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 18.0%
+   Level: Minimal - Little evidence of continuous learning
+   Content Creation: blog
+   Key Highlights:
+     • Active content creator
+
+3. SHUBAHM_20250725_055338.pdf
+   Overall Score: 13.3%
+   Skill Match: 33.3% (3/9 skills)
+   Matched Skills: Git, REST APIs, Docker
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 0.0%
+   Level: Minimal - Little evidence of continuous learning
+
+
+======================================================================
+PROFESSIONAL DEVELOPMENT INSIGHTS:
+======================================================================
+Continuous Learners: 0/3
+Cloud Certified: 0/3
+Conference Speakers: 0/3
+Content Creators: 1/3
+Average PD Score: 11.9%
+
+======================================================================
+QUALITY ASSURANCE REVIEW:
+======================================================================
+The filtering process for the AI Engineer position seems to have been conducted effectively based on the provided information.
+
+1. Skill requirements were properly evaluated as the candidates were assessed based on their proficiency in Python, Django, AWS, Git, REST APIs, Docker, FastAPI, PostgreSQL, and Redis.
+2. The experience range of 6-7 years aligns with the specified requirement for the position.
+3. Professional development was considered, indicating a holistic approach to candidate evaluation.
+4. No specific concerns are evident in the process summary provided.
+5. A recommendation for improvement could be to include more specific details on how professional development was factored into the selection process, such as certifications, training programs, or relevant projects.
+
+Overall, the filtering process appears to have met the requirements for the AI Engineer position.

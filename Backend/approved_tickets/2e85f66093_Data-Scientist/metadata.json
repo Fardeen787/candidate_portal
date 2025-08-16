@@ -1,0 +1,39 @@
+{
+  "ticket_id": "2e85f66093",
+  "created_at": "2025-07-25T16:27:51.870380",
+  "folder_name": "2e85f66093_Data-Scientist",
+  "resumes": [
+    {
+      "filename": "khan_20250725_162751.pdf",
+      "original_filename": "aana-1749893161572.pdf",
+      "uploaded_at": "2025-07-25T16:27:51.906101",
+      "applicant_name": "khan",
+      "applicant_email": "3122132",
+      "file_size": 167827
+    },
+    {
+      "filename": "fardeen_20250725_162818.pdf",
+      "original_filename": "fardeen-khan-1749910453789.pdf",
+      "uploaded_at": "2025-07-25T16:28:18.655665",
+      "applicant_name": "fardeen",
+      "applicant_email": "3122132",
+      "file_size": 44450
+    },
+    {
+      "filename": "Vinay_20250725_162902.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-07-25T16:29:02.271655",
+      "applicant_name": "Vinay",
+      "applicant_email": "vinay@gmail.com",
+      "file_size": 1652
+    },
+    {
+      "filename": "Shubham_20250725_162929.pdf",
+      "original_filename": "fullstack_cv_2.pdf",
+      "uploaded_at": "2025-07-25T16:29:29.830471",
+      "applicant_name": "Shubham",
+      "applicant_email": "shubham@gmail.com",
+      "file_size": 1657
+    }
+  ]
+}

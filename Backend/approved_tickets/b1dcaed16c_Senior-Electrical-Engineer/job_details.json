@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "b1dcaed16c",
+    "source": "chat",
+    "sender": "user_c1a15b70",
+    "user_id": "user_c1a15b70",
+    "subject": "Senior Electrical Engineer",
+    "session_id": "78b4bdc7-33b1-4bd5-ad14-2edf8ab9acaa",
+    "created_at": "2025-07-27T10:53:12",
+    "last_updated": "2025-07-27T10:53:28",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-27T10:53:28",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "28-07-2025",
+    "employment_type": "Full-Time",
+    "experience_required": "15-20",
+    "job_description": "An Electrical Engineer designs, develops, and maintains electrical systems and equipment including power generation, transmission, distribution, electronics, and control systems. They work across various industries such as utilities, manufacturing, telecommunications, and construction to create safe and efficient electrical solutions.",
+    "job_title": "Senior Electrical Engineer",
+    "location": "Austin, Texas",
+    "required_skills": "Electrical Engineers need strong technical expertise in circuit design, power systems analysis, and electrical code compliance, combined with proficiency in design software like AutoCAD Electrical, MATLAB, and PLC programming tools. They must possess analytical and problem-solving abilities for troubleshooting complex electrical issues, along with project management skills for coordinating installations and meeting deadlines. Essential communication skills include technical writing for specifications and documentation, presentation abilities for client interactions, and teamwork capabilities for collaborating with multidisciplinary engineering teams on projects ranging from power distribution to automation systems.",
+    "salary_range": "100k-150k"
+  },
+  "saved_at": "2025-08-13T11:00:38.872490"
+}

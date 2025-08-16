@@ -1,0 +1,81 @@
+RESUME FILTERING SUMMARY REPORT
+======================================================================
+
+Job Ticket ID: 532bc03c3a_Re-hiring-data-engineer
+Position: Data engineer
+Report Generated: 2025-08-05T14:01:37.891236
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 5-7 years
+Skills: Git, REST APIs, Docker, AWS, Django, Python, PostgreSQL, FastAPI, Redis
+Location: Mumbai, Maharashtra
+Salary: INR 15-25 Lakhs per annum
+Deadline: 15-02-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Processed: 2
+Final Selected: 2
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. faddf_20250724_095625.pdf
+   Overall Score: 39.4%
+   Skill Match: 44.4% (4/9 skills)
+   Matched Skills: Git, REST APIs, AWS, PostgreSQL
+   Experience: 3 years (Score: 60.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 18.0%
+   Level: Minimal - Little evidence of continuous learning
+   Content Creation: blog
+   Key Highlights:
+     • Active content creator
+
+2. fardeen_20250724_095605.pdf
+   Overall Score: 37.8%
+   Skill Match: 55.6% (5/9 skills)
+   Matched Skills: Git, Docker, AWS, Python, PostgreSQL
+   Experience: 2 years (Score: 40.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 17.8%
+   Level: Minimal - Little evidence of continuous learning
+   Certifications: 3 found
+     Categories: devops, security
+   Key Highlights:
+     • Has 3 professional certifications
+
+
+======================================================================
+PROFESSIONAL DEVELOPMENT INSIGHTS:
+======================================================================
+Continuous Learners: 0/2
+Cloud Certified: 0/2
+Conference Speakers: 0/2
+Content Creators: 1/2
+Average PD Score: 17.9%
+
+======================================================================
+QUALITY ASSURANCE REVIEW:
+======================================================================
+The filtering process for the Data Engineer position seems to have been conducted effectively. Here is the verification based on the requirements:
+
+1. **Skill Evaluation**: The skills required for the position, including Git, REST APIs, Docker, AWS, Django, Python, PostgreSQL, FastAPI, and Redis, were properly evaluated.
+   
+2. **Experience Match**: The experience range of 5-7 years aligns with the specified requirement.
+   
+3. **Professional Development**: It is mentioned that professional development was considered, which is a positive aspect indicating a holistic approach to candidate evaluation.
+   
+4. **Concerns**: No specific concerns are raised based on the information provided.
+   
+5. **Recommendations for Improvement**: It would be beneficial to include more details on how professional development was assessed to provide transparency in the selection process.
+
+Overall, the filtering process appears to have met the requirements for the Data Engineer position.

@@ -1,0 +1,6 @@
+RESUME FILTERING SUMMARY
+==================================================
+Total Resumes: 4
+Top Candidates: 4
+
+This is a mock filtering result for testing.

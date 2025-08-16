@@ -1,0 +1,55 @@
+{
+  "ticket_id": "52c375e385",
+  "created_at": "2025-07-27T11:13:39.682392",
+  "folder_name": "52c375e385_Electronic-Engineer",
+  "resumes": [
+    {
+      "filename": "Jessica_Park__20250727_111339.pdf",
+      "original_filename": "Jessica_Park.pdf",
+      "uploaded_at": "2025-07-27T11:13:39.728812",
+      "applicant_name": "Jessica Park ",
+      "applicant_email": "jessica.park@email.com",
+      "file_size": 138098
+    },
+    {
+      "filename": "Michael_Rodriguez_20250727_111449.pdf",
+      "original_filename": "Michael_Rodriguez_.pdf",
+      "uploaded_at": "2025-07-27T11:14:49.202018",
+      "applicant_name": "Michael Rodriguez",
+      "applicant_email": "m.rodriguez@email.com",
+      "file_size": 117503
+    },
+    {
+      "filename": "SARAH_WONG__20250727_111612.pdf",
+      "original_filename": "Sarah_Wong_.pdf",
+      "uploaded_at": "2025-07-27T11:16:12.718668",
+      "applicant_name": "SARAH WONG ",
+      "applicant_email": "sarah.wong@email.com",
+      "file_size": 140796
+    },
+    {
+      "filename": "ALEXANDER_MITCHELL_20250727_112623.pdf",
+      "original_filename": "ALEXANDER_MITCHELL_cvs.pdf",
+      "uploaded_at": "2025-07-27T11:26:23.022368",
+      "applicant_name": "ALEXANDER MITCHELL",
+      "applicant_email": "alex.mitchell@email.com",
+      "file_size": 270406
+    },
+    {
+      "filename": "JAMES_CHEN__20250727_113351.pdf",
+      "original_filename": "JAMES_CHEN.pdf",
+      "uploaded_at": "2025-07-27T11:33:51.051071",
+      "applicant_name": "JAMES CHEN ",
+      "applicant_email": "james.chen@email.com",
+      "file_size": 262596
+    },
+    {
+      "filename": "_PRIYA_SHARMA_20250727_113503.pdf",
+      "original_filename": "PRIYA_SHARMA.pdf",
+      "uploaded_at": "2025-07-27T11:35:03.510623",
+      "applicant_name": " PRIYA SHARMA",
+      "applicant_email": "priya.sharma@email.com",
+      "file_size": 261922
+    }
+  ]
+}

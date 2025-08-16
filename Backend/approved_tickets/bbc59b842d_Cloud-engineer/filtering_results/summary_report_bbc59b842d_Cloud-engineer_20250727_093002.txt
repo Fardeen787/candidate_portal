@@ -1,0 +1,108 @@
+RESUME FILTERING SUMMARY REPORT
+======================================================================
+
+Job Ticket ID: bbc59b842d_Cloud-engineer
+Position: Cloud engineer
+Report Generated: 2025-07-27T09:30:02.893683
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 10
+Skills: azure, aws, teraform, gcp
+Location: paris
+Salary: 50k to 60k
+Deadline: 25-07-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Processed: 4
+Final Selected: 4
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. khan_20250724_160246.pdf
+   Overall Score: 29.5%
+   Skill Match: 50.0% (2/4 skills)
+   Matched Skills: aws, gcp
+   Experience: 2 years (Score: 20.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 17.8%
+   Level: Minimal - Little evidence of continuous learning
+   Certifications: 3 found
+     Categories: devops, security
+   Key Highlights:
+     • Has 3 professional certifications
+
+2. rohit_20250724_160232.pdf
+   Overall Score: 19.6%
+   Skill Match: 25.0% (1/4 skills)
+   Matched Skills: aws
+   Experience: 2 years (Score: 20.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 18.0%
+   Level: Minimal - Little evidence of continuous learning
+   Content Creation: blog
+   Key Highlights:
+     • Active content creator
+
+3. sahil_20250724_160348.pdf
+   Overall Score: 14.0%
+   Skill Match: 25.0% (1/4 skills)
+   Matched Skills: aws
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 20.0%
+   Level: Basic - Limited professional development shown
+   Content Creation: github.com
+   Key Highlights:
+     • Active content creator
+
+4. shubaham_20250724_160313.pdf
+   Overall Score: 0.0%
+   Skill Match: 0.0% (0/4 skills)
+   Matched Skills: 
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 0.0%
+   Level: Minimal - Little evidence of continuous learning
+
+
+======================================================================
+PROFESSIONAL DEVELOPMENT INSIGHTS:
+======================================================================
+Continuous Learners: 0/4
+Cloud Certified: 0/4
+Conference Speakers: 0/4
+Content Creators: 2/4
+Average PD Score: 13.9%
+
+======================================================================
+QUALITY ASSURANCE REVIEW:
+======================================================================
+The filtering process for the Cloud engineer position seems to have been thorough. Let's review the requirements and the process:
+
+1. **Skill Requirements Evaluation**: The skills required for the position (azure, aws, terraform, gcp) were properly evaluated in the process. This aligns with the job requirements.
+
+2. **Experience Matching**: The experience requirement of 10 years was considered in the process. This aligns with the job requirements.
+
+3. **Professional Development Consideration**: It's mentioned that professional development was considered in the process, which is a positive aspect. This shows a holistic approach to candidate evaluation.
+
+4. **Concerns**: No major concerns are evident in the process summary provided.
+
+5. **Recommendations for Improvement**:
+   - It would be beneficial to provide more specific details on how professional development was considered. This could include looking at certifications, ongoing training, or other relevant factors.
+   - It might be helpful to include a brief rationale for why the final candidates were chosen. This can provide transparency in the decision-making process.
+
+Overall, the filtering process appears to have met the requirements for the Cloud engineer position.

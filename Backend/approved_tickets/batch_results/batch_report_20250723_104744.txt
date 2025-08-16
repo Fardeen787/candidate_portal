@@ -1,0 +1,25 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-23 10:47:44
+
+STATISTICS:
+  Total Tickets: 1
+  Processed: 1
+  Skipped (Already Processed): 0
+  Errors: 0
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: bfe785244b_Software-Engineer
+Status: COMPLETED
+Position: Software Engineer
+Resumes Processed: 3
+Top Candidates:
+  1. sahil_20250723_094038.pdf - 83.5%
+  2. vinay-kekan-1749892294110.pdf - 43.6%
+  3. shreshhshinde-1749894514118.docx - 43.6%
+
+--------------------------------------------------
+

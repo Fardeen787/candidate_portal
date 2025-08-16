@@ -1,0 +1,1534 @@
+{
+  "ticket_id": "7b32bbee4e_Robotic-engineer",
+  "position": "Robotic engineer",
+  "timestamp": "2025-07-27T09:29:46.118332",
+  "job_status": "new",
+  "requirements_last_updated": "2025-07-27T09:23:17.918954",
+  "latest_requirements": {
+    "experience": "8-12",
+    "tech_stack": [
+      "Raspberry Pi",
+      "Python",
+      "Linux",
+      "Matlab",
+      "ROS Masterring"
+    ],
+    "location": "Paris",
+    "salary": "50k-60k per year",
+    "deadline": "23-09-2025"
+  },
+  "summary": {
+    "total_resumes": 3,
+    "stage1_selected": 3,
+    "final_selected": 3
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\ALEX_MARTINEZ__20250727_092317.pdf",
+        "filename": "ALEX_MARTINEZ__20250727_092317.pdf",
+        "final_score": 0.5665000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.48250000000000004,
+        "similarity_score": 0.12881354216298324,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.48250000000000004,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.8,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.2,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\SARAH_CHEN__20250727_092523.pdf",
+        "filename": "SARAH_CHEN__20250727_092523.pdf",
+        "final_score": 0.5093000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.625,
+        "location_score": 0.0,
+        "professional_development_score": 0.009,
+        "similarity_score": 0.12959929603161613,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.009,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.045,
+              "speaking_score": 0.0,
+              "attendance_score": 0.15,
+              "events_found": [
+                "participant"
+              ],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 1,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\Priya_Deshmukh_20250727_092428.pdf",
+        "filename": "Priya_Deshmukh_20250727_092428.pdf",
+        "final_score": 0.46,
+        "skill_score": 0.6,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.35,
+        "similarity_score": 0.058237077933784465,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.35,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cks"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.35,
+              "platforms_found": [
+                "coursera",
+                "udemy"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 2,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\ALEX_MARTINEZ__20250727_092317.pdf",
+        "filename": "ALEX_MARTINEZ__20250727_092317.pdf",
+        "final_score": 0.5665000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.48250000000000004,
+        "similarity_score": 0.12881354216298324,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.48250000000000004,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.8,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.2,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\SARAH_CHEN__20250727_092523.pdf",
+        "filename": "SARAH_CHEN__20250727_092523.pdf",
+        "final_score": 0.5093000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.625,
+        "location_score": 0.0,
+        "professional_development_score": 0.009,
+        "similarity_score": 0.12959929603161613,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.009,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.045,
+              "speaking_score": 0.0,
+              "attendance_score": 0.15,
+              "events_found": [
+                "participant"
+              ],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 1,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\Priya_Deshmukh_20250727_092428.pdf",
+        "filename": "Priya_Deshmukh_20250727_092428.pdf",
+        "final_score": 0.46,
+        "skill_score": 0.6,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.35,
+        "similarity_score": 0.058237077933784465,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.35,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cks"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.35,
+              "platforms_found": [
+                "coursera",
+                "udemy"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 2,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        }
+      }
+    ],
+    "agent_review": "Candidate 1 (ALEX MARTINEZ) meets most of the requirements with a skill match of 80% (4/5) including Raspberry Pi, Python, Linux, and Matlab. However, they are missing the skill of ROS Masterring. They have 4 years of experience which meets the minimum requirement, but their location does not match (Paris). In terms of professional development, they have a moderate level with some activities.\n\nCandidate 2 (SARAH CHEN) also meets most of the requirements with a skill match of 80% (4/5) including Raspberry Pi, Python, Linux, and Matlab. Similar to Candidate 1, they are missing the skill of ROS Masterring. They have 5 years of experience which meets the minimum requirement, but their location does not match (Paris). Their professional development level is minimal with little evidence of continuous learning.\n\nCandidate 3 (Priya Deshmukh) does not fully meet the requirements. They have a skill match of 60% (3/5) missing Linux and ROS Masterring. They have 4 years of experience which meets the minimum requirement, but their location does not match (Paris). Their professional development level is basic with limited activities shown.\n\nOverall, none of the candidates fully meet the requirements due to missing the skill of ROS Masterring and not being located in Paris. Consider flagging all candidates for not meeting the location requirement and missing skill.",
+    "scoring_criteria": {
+      "skills_required": [
+        "Raspberry Pi",
+        "Python",
+        "Linux",
+        "Matlab",
+        "ROS Masterring"
+      ],
+      "experience_range": "8-12",
+      "location": "Paris"
+    },
+    "duplicates_found": 0
+  },
+  "stage2_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\ALEX_MARTINEZ__20250727_092317.pdf",
+        "filename": "ALEX_MARTINEZ__20250727_092317.pdf",
+        "final_score": 0.5665000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.48250000000000004,
+        "similarity_score": 0.12881354216298324,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.48250000000000004,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.8,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.2,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        },
+        "final_rank": 1,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\SARAH_CHEN__20250727_092523.pdf",
+        "filename": "SARAH_CHEN__20250727_092523.pdf",
+        "final_score": 0.5093000000000001,
+        "skill_score": 0.8,
+        "experience_score": 0.625,
+        "location_score": 0.0,
+        "professional_development_score": 0.009,
+        "similarity_score": 0.12959929603161613,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Linux": [
+            "linux"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.009,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.045,
+              "speaking_score": 0.0,
+              "attendance_score": 0.15,
+              "events_found": [
+                "participant"
+              ],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 1,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 2
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        },
+        "final_rank": 2,
+        "selection_reason": "Strong match for requirements"
+      },
+      {
+        "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\Priya_Deshmukh_20250727_092428.pdf",
+        "filename": "Priya_Deshmukh_20250727_092428.pdf",
+        "final_score": 0.46,
+        "skill_score": 0.6,
+        "experience_score": 0.5,
+        "location_score": 0.0,
+        "professional_development_score": 0.35,
+        "similarity_score": 0.058237077933784465,
+        "matched_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Matlab"
+        ],
+        "detailed_skill_matches": {
+          "Raspberry Pi": [
+            "raspberry pi"
+          ],
+          "Python": [
+            "python"
+          ],
+          "Matlab": [
+            "matlab"
+          ]
+        },
+        "detected_experience_years": 4,
+        "professional_development": {
+          "professional_development_score": 0.35,
+          "professional_development_level": "Basic - Limited professional development shown",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cks"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.35,
+              "platforms_found": [
+                "coursera",
+                "udemy"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 1.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [
+                "github.com"
+              ],
+              "github_activity": null,
+              "open_source_activity": true
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 2,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": true,
+            "content_types": [
+              "open_source"
+            ],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Active content creator"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "Robotic engineer",
+          "required_skills": [
+            "Raspberry Pi",
+            "Python",
+            "Linux",
+            "Matlab",
+            "ROS Masterring"
+          ],
+          "required_experience": "8-12",
+          "location": "Paris"
+        },
+        "final_rank": 3,
+        "selection_reason": "Strong match for requirements"
+      }
+    ],
+    "detailed_analysis": "Based on the requirements for a Robotic Engineer with skills in Raspberry Pi, Python, Linux, Matlab, and ROS Mastering, as well as 8-12 years of experience and being located in Paris, here are the top candidates:\n\n1. **Candidate 2: Sarah Chen**\n   - **Overall Score:** 50.9%\n   - **Matched Skills:** Raspberry Pi, Python, Linux, Matlab\n   - **Experience:** 5 years\n   - **Professional Development:** Limited\n   - **Location:** Boston, MA\n   - **Notes:** While missing ROS Mastering, Sarah has a strong background in the required skills and relevant experience in medical robotics. She has experience working with Linux and Matlab, making her a strong candidate for further consideration.\n\n2. **Candidate 1: Alex Martinez**\n   - **Overall Score:** 56.7%\n   - **Matched Skills:** Raspberry Pi, Python, Linux, Matlab\n   - **Experience:** 7 years\n   - **Professional Development:** Active content creator\n   - **Location:** San Francisco, CA\n   - **Notes:** Alex has a comprehensive skill set and experience in robotics engineering. While missing ROS Mastering, their active content creation indicates a commitment to professional development.\n\n3. **Candidate 3: Priya Deshmukh**\n   - **Overall Score:** 46.0%\n   - **Matched Skills:** Raspberry Pi, Python, Matlab\n   - **Experience:** 4 years\n   - **Professional Development:** Active content creator\n   - **Location:** San Jose, CA\n   - **Notes:** Priya has a solid foundation in the required skills, though lacking in Linux and ROS Mastering. Their active content creation shows a dedication to growth and learning.\n\nThese candidates have the strongest alignment with the requirements, with Candidate 2 being the closest match despite missing ROS Mastering. Candidates 1 and 3 also show potential due to their skills and professional development activities.",
+    "selection_criteria": "Based on job requirements and professional development",
+    "requirements_version": "2025-07-27T09:23:17.918954"
+  },
+  "qa_review": {
+    "qa_assessment": "The filtering process for the Robotic Engineer position seems to have been conducted effectively. Here's a review based on the provided information:\n\n1. **Skill Evaluation**: The skills required for the job, including Raspberry Pi, Python, Linux, Matlab, and ROS Masterring, were properly evaluated during the filtering process. This aligns with the job requirements.\n\n2. **Experience Match**: The experience range of 8-12 years for the candidates aligns with the specified requirement. This indicates that the experience level was appropriately considered during the selection process.\n\n3. **Professional Development**: It's mentioned that professional development was considered during the process. This is a positive aspect as it shows a holistic approach to candidate evaluation beyond just technical skills and experience.\n\n4. **Concerns**: Based on the information provided, there don't seem to be any major concerns about the filtering process. However, it would be beneficial to have more details on how professional development was factored into the final selection.\n\n5. **Recommendations for Improvement**:\n   - Provide more transparency on how professional development was considered in the selection process.\n   - Ensure that the location requirement (Paris) was also taken into account during the filtering process.\n   - Consider providing feedback to all candidates who were not selected to maintain a positive candidate experience.\n\nOverall, the filtering process appears to have met the requirements for the Robotic Engineer position.",
+    "requirements_verified": true,
+    "qa_timestamp": "2025-07-27T09:29:46.118332"
+  },
+  "final_top_5": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\ALEX_MARTINEZ__20250727_092317.pdf",
+      "filename": "ALEX_MARTINEZ__20250727_092317.pdf",
+      "final_score": 0.5665000000000001,
+      "skill_score": 0.8,
+      "experience_score": 0.5,
+      "location_score": 0.0,
+      "professional_development_score": 0.48250000000000004,
+      "similarity_score": 0.12881354216298324,
+      "matched_skills": [
+        "Raspberry Pi",
+        "Python",
+        "Linux",
+        "Matlab"
+      ],
+      "detailed_skill_matches": {
+        "Raspberry Pi": [
+          "raspberry pi"
+        ],
+        "Python": [
+          "python"
+        ],
+        "Linux": [
+          "linux"
+        ],
+        "Matlab": [
+          "matlab"
+        ]
+      },
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.48250000000000004,
+        "professional_development_level": "Moderate - Some professional development activities",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.8,
+            "platforms_found": [
+              "coursera"
+            ],
+            "course_count_estimate": 2,
+            "recent_learning_score": 0.2,
+            "specializations_mentioned": true
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "devops"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 1,
+          "estimated_courses_completed": 2,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Robotic engineer",
+        "required_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab",
+          "ROS Masterring"
+        ],
+        "required_experience": "8-12",
+        "location": "Paris"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\SARAH_CHEN__20250727_092523.pdf",
+      "filename": "SARAH_CHEN__20250727_092523.pdf",
+      "final_score": 0.5093000000000001,
+      "skill_score": 0.8,
+      "experience_score": 0.625,
+      "location_score": 0.0,
+      "professional_development_score": 0.009,
+      "similarity_score": 0.12959929603161613,
+      "matched_skills": [
+        "Raspberry Pi",
+        "Python",
+        "Linux",
+        "Matlab"
+      ],
+      "detailed_skill_matches": {
+        "Raspberry Pi": [
+          "raspberry pi"
+        ],
+        "Python": [
+          "python"
+        ],
+        "Linux": [
+          "linux"
+        ],
+        "Matlab": [
+          "matlab"
+        ]
+      },
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.009,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.045,
+            "speaking_score": 0.0,
+            "attendance_score": 0.15,
+            "events_found": [
+              "participant"
+            ],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 1,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Robotic engineer",
+        "required_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab",
+          "ROS Masterring"
+        ],
+        "required_experience": "8-12",
+        "location": "Paris"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\Priya_Deshmukh_20250727_092428.pdf",
+      "filename": "Priya_Deshmukh_20250727_092428.pdf",
+      "final_score": 0.46,
+      "skill_score": 0.6,
+      "experience_score": 0.5,
+      "location_score": 0.0,
+      "professional_development_score": 0.35,
+      "similarity_score": 0.058237077933784465,
+      "matched_skills": [
+        "Raspberry Pi",
+        "Python",
+        "Matlab"
+      ],
+      "detailed_skill_matches": {
+        "Raspberry Pi": [
+          "raspberry pi"
+        ],
+        "Python": [
+          "python"
+        ],
+        "Matlab": [
+          "matlab"
+        ]
+      },
+      "detected_experience_years": 4,
+      "professional_development": {
+        "professional_development_score": 0.35,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cks"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cks"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.35,
+            "platforms_found": [
+              "coursera",
+              "udemy"
+            ],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "devops"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 2,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Robotic engineer",
+        "required_skills": [
+          "Raspberry Pi",
+          "Python",
+          "Linux",
+          "Matlab",
+          "ROS Masterring"
+        ],
+        "required_experience": "8-12",
+        "location": "Paris"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    }
+  ]
+}

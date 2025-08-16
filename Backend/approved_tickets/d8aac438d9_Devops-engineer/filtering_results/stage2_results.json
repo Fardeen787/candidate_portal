@@ -1,0 +1,107 @@
+{
+  "top_5_candidates": [
+    {
+      "file_path": "approved_tickets\\d8aac438d9_Devops-engineer\\RAJESH_KUMAR_SHARMA__20250813_101857.pdf",
+      "filename": "RAJESH_KUMAR_SHARMA__20250813_101857.pdf",
+      "final_score": 0.2525,
+      "skill_score": 0.0,
+      "experience_score": 0.8,
+      "location_score": 0.0,
+      "professional_development_score": 0.0625,
+      "similarity_score": 0.0,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0625,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "pmp"
+            ],
+            "certification_categories": {
+              "agile": [
+                "pmp"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 2,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": true
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "agile"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 2,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Devops engineer",
+        "required_skills": [
+          "c++",
+          "python"
+        ],
+        "required_experience": "6",
+        "location": "Paris"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    }
+  ],
+  "detailed_analysis": "Based on the requirements for a Devops engineer with skills in c++ and python, as well as 6 years of experience and being located in Paris, the candidate provided does not meet the skill requirements as they are a Mechanical Engineer with experience in CAD software, simulation tools, and product design. They do not have experience with c++ and python. Therefore, this candidate is not a suitable fit for the Devops engineer position.\n\nIf you have more candidates to evaluate, please provide additional profiles for assessment.",
+  "selection_criteria": "Based on job requirements and professional development",
+  "requirements_version": "2025-08-13T10:16:18.983683"
+}

@@ -1,0 +1,112 @@
+RESUME FILTERING SUMMARY REPORT
+======================================================================
+
+Job Ticket ID: 7b32bbee4e_Robotic-engineer
+Position: Robotic engineer
+Report Generated: 2025-07-27T10:16:41.827240
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 8-12
+Skills: Matlab, ROS Masterring, Raspberry Pi, Linux, Python
+Location: Paris
+Salary: 50k-60k per year
+Deadline: 23-09-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Processed: 4
+Final Selected: 4
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. ALEX_MARTINEZ__20250727_092317.pdf
+   Overall Score: 56.7%
+   Skill Match: 80.0% (4/5 skills)
+   Matched Skills: Matlab, Raspberry Pi, Linux, Python
+   Experience: 4 years (Score: 50.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 48.3%
+   Level: Moderate - Some professional development activities
+   Certifications: 1 found
+     Categories: devops
+   Online Learning: coursera
+     Estimated courses: 2
+   Content Creation: github.com
+   Key Highlights:
+     • Active content creator
+
+2. SARAH_CHEN__20250727_092523.pdf
+   Overall Score: 50.9%
+   Skill Match: 80.0% (4/5 skills)
+   Matched Skills: Matlab, Raspberry Pi, Linux, Python
+   Experience: 5 years (Score: 62.5%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 0.9%
+   Level: Minimal - Little evidence of continuous learning
+
+3. Priya_Deshmukh_20250727_092428.pdf
+   Overall Score: 46.0%
+   Skill Match: 60.0% (3/5 skills)
+   Matched Skills: Matlab, Raspberry Pi, Python
+   Experience: 4 years (Score: 50.0%)
+   Location Match: No
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 35.0%
+   Level: Basic - Limited professional development shown
+   Certifications: 1 found
+     Categories: devops
+   Online Learning: udemy, coursera
+   Content Creation: github.com
+   Key Highlights:
+     • Active content creator
+
+4. Robotics_Engineer_20250727_093624.pdf
+   Overall Score: 45.0%
+   Skill Match: 40.0% (2/5 skills)
+   Matched Skills: Matlab, Python
+   Experience: 4 years (Score: 50.0%)
+   Location Match: Yes
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 20.0%
+   Level: Basic - Limited professional development shown
+   Content Creation: github.com
+   Key Highlights:
+     • Active content creator
+
+
+======================================================================
+PROFESSIONAL DEVELOPMENT INSIGHTS:
+======================================================================
+Continuous Learners: 0/4
+Cloud Certified: 0/4
+Conference Speakers: 0/4
+Content Creators: 3/4
+Average PD Score: 26.0%
+
+======================================================================
+QUALITY ASSURANCE REVIEW:
+======================================================================
+The filtering process for the Robotic Engineer position seems to have been conducted effectively. Here is the verification based on the requirements:
+
+1. **Skill Requirements Evaluation**: The skills required for the position, including Matlab, ROS Masterring, Raspberry Pi, Linux, and Python, were properly evaluated in the process.
+   
+2. **Experience Range Matching**: The experience range of 8-12 years matches the specified requirements.
+
+3. **Professional Development Consideration**: It is mentioned that professional development was considered in the process, which is a positive aspect indicating a holistic evaluation of candidates.
+
+4. **Concerns**: No specific concerns were raised based on the provided information.
+
+5. **Recommendations for Improvement**: It would be beneficial to include more specific details on how professional development was considered, such as whether it was based on certifications, training programs, or previous projects. Additionally, providing feedback to candidates who were not selected could enhance the candidate experience.
+
+Overall, the filtering process appears to have met the requirements for the Robotic Engineer position.

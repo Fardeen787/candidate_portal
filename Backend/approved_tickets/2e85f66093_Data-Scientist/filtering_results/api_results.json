@@ -1,0 +1,108 @@
+{
+  "status": "completed",
+  "completed_at": "2025-07-26T08:56:28.918586",
+  "ticket_id": "2e85f66093",
+  "total_resumes": 4,
+  "top_candidates": [
+    {
+      "rank": 1,
+      "filename": "Shubham_20250725_162929.pdf",
+      "score": 0.8483358908759877,
+      "scores": {
+        "overall": "84.8%",
+        "skills": "80.4%",
+        "experience": "76.8%",
+        "professional_development": "59.4%"
+      },
+      "skill_score": 0.8035970603612335,
+      "experience_score": 0.7677348770128649,
+      "professional_development_score": 0.5942110663346818,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "experience_years": 5,
+      "applicant_name": "Shubham",
+      "applicant_email": "shubham@gmail.com",
+      "analysis": "Strong",
+      "missing_skills": [
+        "SQL"
+      ]
+    },
+    {
+      "rank": 2,
+      "filename": "fardeen_20250725_162818.pdf",
+      "score": 0.7425397630182785,
+      "scores": {
+        "overall": "74.3%",
+        "skills": "86.5%",
+        "experience": "84.7%",
+        "professional_development": "46.5%"
+      },
+      "skill_score": 0.8649552652388072,
+      "experience_score": 0.8468333707697946,
+      "professional_development_score": 0.46505490220420126,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "experience_years": 9,
+      "applicant_name": "fardeen",
+      "applicant_email": "3122132",
+      "analysis": "Strong",
+      "missing_skills": [
+        "SQL"
+      ]
+    },
+    {
+      "rank": 3,
+      "filename": "khan_20250725_162751.pdf",
+      "score": 0.71216163269385,
+      "scores": {
+        "overall": "71.2%",
+        "skills": "87.3%",
+        "experience": "59.4%",
+        "professional_development": "77.0%"
+      },
+      "skill_score": 0.8732718994531001,
+      "experience_score": 0.594254794612372,
+      "professional_development_score": 0.7695313351256414,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "experience_years": 5,
+      "applicant_name": "khan",
+      "applicant_email": "3122132",
+      "analysis": "Strong",
+      "missing_skills": [
+        "SQL"
+      ]
+    },
+    {
+      "rank": 4,
+      "filename": "Vinay_20250725_162902.pdf",
+      "score": 0.6396855180846234,
+      "scores": {
+        "overall": "64.0%",
+        "skills": "62.6%",
+        "experience": "58.0%",
+        "professional_development": "85.1%"
+      },
+      "skill_score": 0.6256081726438995,
+      "experience_score": 0.5802692107684253,
+      "professional_development_score": 0.8512528236493297,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "experience_years": 3,
+      "applicant_name": "Vinay",
+      "applicant_email": "vinay@gmail.com",
+      "analysis": "Strong",
+      "missing_skills": [
+        "SQL"
+      ]
+    }
+  ]
+}

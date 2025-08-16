@@ -1,0 +1,25 @@
+BATCH PROCESSING SUMMARY REPORT
+================================================================================
+Generated: 2025-07-23 13:04:04
+
+STATISTICS:
+  Total Tickets: 1
+  Processed: 1
+  Skipped (Already Processed): 0
+  Errors: 0
+
+================================================================================
+TICKET DETAILS:
+================================================================================
+
+Ticket ID: 7e8864422b_Re-New-Hiring-Position
+Status: COMPLETED
+Position: Fullsatck engineer
+Resumes Processed: 6
+Top Candidates:
+  1. Yahia__20250723_122029.pdf - 47.0%
+  2. Smith_20250723_123008.pdf - 40.0%
+  3. JOE_20250723_123158.pdf - 10.0%
+
+--------------------------------------------------
+

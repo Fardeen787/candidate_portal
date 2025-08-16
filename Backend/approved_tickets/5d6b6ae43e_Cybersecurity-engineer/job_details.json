@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "5d6b6ae43e",
+    "source": "chat",
+    "sender": "user_ee00d4a2",
+    "user_id": "user_ee00d4a2",
+    "subject": "Cybersecurity engineer",
+    "session_id": "da8ada97-024f-4213-8763-22f338c227b0",
+    "created_at": "2025-07-27T13:14:54",
+    "last_updated": "2025-07-27T13:19:11",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-27T13:15:43",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "15-10-2025",
+    "employment_type": "Full-time",
+    "experience_required": "10-15",
+    "job_description": "We are seeking a skilled cybersecurity professional to protect our organization's digital assets and infrastructure. The ideal candidate will implement security measures, monitor for threats, and respond to incidents to safeguard our networks, systems, and sensitive data. Responsibilities include conducting vulnerability assessments, managing security tools, developing policies, and ensuring compliance with industry standards. This role requires strong analytical skills, knowledge of current threat landscapes, and experience with security technologies such as firewalls, intrusion detection systems, and encryption protocols. The position offers opportunity to work in a dynamic field protecting against evolving cyber threats while supporting business operations and maintaining customer trust.",
+    "job_title": "Cybersecurity engineer",
+    "location": "new value or null",
+    "required_skills": "Strong technical knowledge of security tools, firewalls, and threat detection systems. Excellent analytical and problem-solving abilities to identify vulnerabilities and respond to incidents. Effective communication skills to work with teams and explain security concepts to stakeholders. Continuous learning mindset to stay updated with emerging cyber threats and technologies.",
+    "salary_range": "80k-100k"
+  },
+  "saved_at": "2025-07-27T13:24:19.084596"
+}

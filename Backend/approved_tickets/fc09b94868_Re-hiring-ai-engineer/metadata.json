@@ -1,0 +1,23 @@
+{
+  "ticket_id": "fc09b94868",
+  "created_at": "2025-07-27T07:17:18.696296",
+  "folder_name": "fc09b94868_Re-hiring-ai-engineer",
+  "resumes": [
+    {
+      "filename": "Fardeen_Khan_20250813_170829.pdf",
+      "original_filename": "Mark_RING.pdf",
+      "uploaded_at": "2025-08-13T17:08:29.215874",
+      "applicant_name": "Fardeen Khan",
+      "applicant_email": "khanfardeen833@gmail.com",
+      "file_size": 299456
+    },
+    {
+      "filename": "WALID_20250814_141922.pdf",
+      "original_filename": "Mark_RING.pdf",
+      "uploaded_at": "2025-08-14T14:19:22.801828",
+      "applicant_name": "WALID",
+      "applicant_email": "oualid.sadlaib2000@gmail.com",
+      "file_size": 299456
+    }
+  ]
+}

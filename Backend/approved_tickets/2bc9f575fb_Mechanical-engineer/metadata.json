@@ -1,0 +1,63 @@
+{
+  "ticket_id": "2bc9f575fb",
+  "created_at": "2025-07-27T13:48:54.491858",
+  "folder_name": "2bc9f575fb_Mechanical-engineer",
+  "resumes": [
+    {
+      "filename": "MICHAEL_RODRIGUEZ__20250727_134854.pdf",
+      "original_filename": "MICHAEL_RODRIGUEZ.pdf",
+      "uploaded_at": "2025-07-27T13:48:54.526633",
+      "applicant_name": "MICHAEL RODRIGUEZ ",
+      "applicant_email": "m.rodriguez@email.com",
+      "file_size": 234067
+    },
+    {
+      "filename": "Mohammed_Rodriguez_20250727_134940.pdf",
+      "original_filename": "MICHAEL_RODRIGUEZ.pdf",
+      "uploaded_at": "2025-07-27T13:49:40.089676",
+      "applicant_name": "Mohammed Rodriguez",
+      "applicant_email": "test.rodriguez@email.com |",
+      "file_size": 234067
+    },
+    {
+      "filename": "Mark_RING_20250801_175017.pdf",
+      "original_filename": "Mark_RING.pdf",
+      "uploaded_at": "2025-08-01T17:50:17.372167",
+      "applicant_name": "Mark RING",
+      "applicant_email": "mark.ring@email.com",
+      "file_size": 299456
+    },
+    {
+      "filename": "RAJESH_KUMAR_SHARMA__20250801_175104.pdf",
+      "original_filename": "RAJESH_KUMAR_SHARMA.pdf",
+      "uploaded_at": "2025-08-01T17:51:04.091076",
+      "applicant_name": "RAJESH KUMAR SHARMA ",
+      "applicant_email": "rajesh.sharma@email.com",
+      "file_size": 298763
+    },
+    {
+      "filename": "Shubham_Khandelwal_20250804_083630.pdf",
+      "original_filename": "Shubham_khandelwal.pdf",
+      "uploaded_at": "2025-08-04T08:36:30.969715",
+      "applicant_name": "Shubham Khandelwal",
+      "applicant_email": "sharma__shubham@hotmail.com",
+      "file_size": 125443
+    },
+    {
+      "filename": "RAJESH_KUMAR_SHARMA__20250813_101754.pdf",
+      "original_filename": "RAJESH_KUMAR_SHARMA.pdf",
+      "uploaded_at": "2025-08-13T10:17:54.862448",
+      "applicant_name": "RAJESH KUMAR SHARMA ",
+      "applicant_email": "rajesh.sharma@email.com",
+      "file_size": 298763
+    },
+    {
+      "filename": "WALID_20250815_135229.pdf",
+      "original_filename": "Mark_RING.pdf",
+      "uploaded_at": "2025-08-15T13:52:29.846125",
+      "applicant_name": "WALID",
+      "applicant_email": "oualid.sadlaib2000@gmail.com",
+      "file_size": 299456
+    }
+  ]
+}

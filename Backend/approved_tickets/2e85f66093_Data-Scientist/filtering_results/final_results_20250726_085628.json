@@ -1,0 +1,121 @@
+{
+  "ticket_id": "2e85f66093_Data-Scientist",
+  "position": "Software Developer",
+  "timestamp": "2025-07-26T08:56:28.918586",
+  "summary": {
+    "total_resumes": 4,
+    "stage1_selected": 4,
+    "final_selected": 4
+  },
+  "latest_requirements": {
+    "experience": "5-8 years",
+    "tech_stack": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ],
+    "location": "Remote"
+  },
+  "final_top_5": [
+    {
+      "filename": "Shubham_20250725_162929.pdf",
+      "final_score": 0.8483358908759877,
+      "skill_score": 0.8035970603612335,
+      "experience_score": 0.7677348770128649,
+      "location_score": 0.8943365765683979,
+      "professional_development_score": 0.5942110663346818,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "detected_experience_years": 5,
+      "file_path": "approved_tickets\\2e85f66093_Data-Scientist\\Shubham_20250725_162929.pdf",
+      "professional_development": {
+        "professional_development_level": "Strong",
+        "summary": {
+          "total_certifications": 2,
+          "continuous_learner": true,
+          "key_highlights": [
+            "AWS Certified",
+            "Active on GitHub"
+          ]
+        }
+      }
+    },
+    {
+      "filename": "fardeen_20250725_162818.pdf",
+      "final_score": 0.7425397630182785,
+      "skill_score": 0.8649552652388072,
+      "experience_score": 0.8468333707697946,
+      "location_score": 0.9768817029030294,
+      "professional_development_score": 0.46505490220420126,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "detected_experience_years": 9,
+      "file_path": "approved_tickets\\2e85f66093_Data-Scientist\\fardeen_20250725_162818.pdf",
+      "professional_development": {
+        "professional_development_level": "Strong",
+        "summary": {
+          "total_certifications": 0,
+          "continuous_learner": true,
+          "key_highlights": [
+            "AWS Certified",
+            "Active on GitHub"
+          ]
+        }
+      }
+    },
+    {
+      "filename": "khan_20250725_162751.pdf",
+      "final_score": 0.71216163269385,
+      "skill_score": 0.8732718994531001,
+      "experience_score": 0.594254794612372,
+      "location_score": 0.8285446695287039,
+      "professional_development_score": 0.7695313351256414,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "detected_experience_years": 5,
+      "file_path": "approved_tickets\\2e85f66093_Data-Scientist\\khan_20250725_162751.pdf",
+      "professional_development": {
+        "professional_development_level": "Strong",
+        "summary": {
+          "total_certifications": 5,
+          "continuous_learner": true,
+          "key_highlights": [
+            "AWS Certified",
+            "Active on GitHub"
+          ]
+        }
+      }
+    },
+    {
+      "filename": "Vinay_20250725_162902.pdf",
+      "final_score": 0.6396855180846234,
+      "skill_score": 0.6256081726438995,
+      "experience_score": 0.5802692107684253,
+      "location_score": 0.919209145375558,
+      "professional_development_score": 0.8512528236493297,
+      "matched_skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "detected_experience_years": 3,
+      "file_path": "approved_tickets\\2e85f66093_Data-Scientist\\Vinay_20250725_162902.pdf",
+      "professional_development": {
+        "professional_development_level": "Strong",
+        "summary": {
+          "total_certifications": 1,
+          "continuous_learner": true,
+          "key_highlights": [
+            "AWS Certified",
+            "Active on GitHub"
+          ]
+        }
+      }
+    }
+  ]
+}

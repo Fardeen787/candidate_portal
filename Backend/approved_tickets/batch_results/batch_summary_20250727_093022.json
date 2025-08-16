@@ -1,0 +1,258 @@
+{
+  "batch_run_timestamp": "2025-07-27T09:30:22.116060",
+  "statistics": {
+    "total_tickets": 12,
+    "processed": 6,
+    "skipped": 2,
+    "errors": 4
+  },
+  "tickets": [
+    {
+      "ticket_id": "228d9ec206_software-developer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\228d9ec206_software-developer",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:29:07.477043",
+      "position": "software developer",
+      "total_resumes": 3,
+      "top_5_selected": 3,
+      "top_candidates": [
+        {
+          "name": "sahil_20250724_093947.pdf",
+          "score": "44.0%"
+        },
+        {
+          "name": "khan_20250724_094006.pdf",
+          "score": "20.0%"
+        },
+        {
+          "name": "King_20250724_093910.pdf",
+          "score": "0.0%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "2e85f66093_Data-Scientist",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2e85f66093_Data-Scientist",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:29:12.350815",
+      "position": "Data Scientist",
+      "total_resumes": 4,
+      "top_5_selected": 4,
+      "top_candidates": [
+        {
+          "name": "fardeen_20250725_162818.pdf",
+          "score": "52.1%"
+        },
+        {
+          "name": "Shubham_20250725_162929.pdf",
+          "score": "44.0%"
+        },
+        {
+          "name": "khan_20250725_162751.pdf",
+          "score": "32.2%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "388202b780_Devops-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\388202b780_Devops-engineer",
+      "status": "skipped",
+      "timestamp": "2025-07-27T09:29:14.390505",
+      "last_processed": "2025-07-24T14:20:51.504474"
+    },
+    {
+      "ticket_id": "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin",
+      "status": "error",
+      "timestamp": "2025-07-27T09:29:16.232770",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "532bc03c3a_Re-hiring-data-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:29:28.468515",
+      "position": "Data engineer",
+      "total_resumes": 2,
+      "top_5_selected": 2,
+      "top_candidates": [
+        {
+          "name": "fardeen_20250724_095605.pdf",
+          "score": "37.8%"
+        },
+        {
+          "name": "faddf_20250724_095625.pdf",
+          "score": "33.4%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "74afd4b567_Re-Software-Developer-position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position",
+      "status": "error",
+      "timestamp": "2025-07-27T09:29:31.986247",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "7b32bbee4e_Robotic-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:29:46.131351",
+      "position": "Robotic engineer",
+      "total_resumes": 3,
+      "top_5_selected": 3,
+      "top_candidates": [
+        {
+          "name": "ALEX_MARTINEZ__20250727_092317.pdf",
+          "score": "56.7%"
+        },
+        {
+          "name": "SARAH_CHEN__20250727_092523.pdf",
+          "score": "50.9%"
+        },
+        {
+          "name": "Priya_Deshmukh_20250727_092428.pdf",
+          "score": "46.0%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "7e8864422b_Re-New-Hiring-Position",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position",
+      "status": "skipped",
+      "timestamp": "2025-07-27T09:29:48.154105",
+      "last_processed": "2025-07-24T09:44:01.904407"
+    },
+    {
+      "ticket_id": "bbc59b842d_Cloud-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:30:02.905270",
+      "position": "Cloud engineer",
+      "total_resumes": 4,
+      "top_5_selected": 4,
+      "top_candidates": [
+        {
+          "name": "khan_20250724_160246.pdf",
+          "score": "29.5%"
+        },
+        {
+          "name": "rohit_20250724_160232.pdf",
+          "score": "19.6%"
+        },
+        {
+          "name": "sahil_20250724_160348.pdf",
+          "score": "14.0%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "d8aac438d9_Devops-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\d8aac438d9_Devops-engineer",
+      "status": "error",
+      "timestamp": "2025-07-27T09:30:06.424675",
+      "error_message": "No resumes found in the ticket folder"
+    },
+    {
+      "ticket_id": "f903fe248b_Re-hiring-ai-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer",
+      "status": "completed",
+      "timestamp": "2025-07-27T09:30:18.645777",
+      "position": "AI Engineer",
+      "total_resumes": 3,
+      "top_5_selected": 3,
+      "top_candidates": [
+        {
+          "name": "fardeen_20250725_054655.pdf",
+          "score": "35.8%"
+        },
+        {
+          "name": "sahil_20250725_054526.pdf",
+          "score": "31.4%"
+        },
+        {
+          "name": "SHUBAHM_20250725_055338.pdf",
+          "score": "13.3%"
+        }
+      ]
+    },
+    {
+      "ticket_id": "fc09b94868_Re-hiring-ai-engineer",
+      "ticket_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\fc09b94868_Re-hiring-ai-engineer",
+      "status": "error",
+      "timestamp": "2025-07-27T09:30:22.115062",
+      "error_message": "No resumes found in the ticket folder"
+    }
+  ],
+  "tracker_summary": {
+    "total_processed": 11,
+    "tickets": {
+      "74afd4b567_Re-Software-Developer-position": {
+        "content_hash": "a6e2c58b262d4d7d92847eb9800fd9d8",
+        "last_processed": "2025-07-07T15:33:28.597453",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\74afd4b567_Re-Software-Developer-position\\filtering_results\\final_results_74afd4b567_Re-Software-Developer-position_20250707_153328.json",
+        "status": "completed"
+      },
+      "462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin": {
+        "content_hash": "6c57f1db8e69b51d257fafe88aa1d604",
+        "last_processed": "2025-07-11T16:33:41.982556",
+        "results_file": "approved_tickets\\462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin\\filtering_results\\final_results_462da1ffd6_Re-UTF-8QHiring_Request_E28093_Senior_DevOps_Engin_20250711_163341.json",
+        "status": "completed"
+      },
+      "bfe785244b_Software-Engineer": {
+        "content_hash": "13e4f9cb4046ef47da690fa1bcfec63a",
+        "last_processed": "2025-07-23T12:35:48.234214",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bfe785244b_Software-Engineer\\filtering_results\\final_results_bfe785244b_Software-Engineer_20250723_123548.json",
+        "status": "completed"
+      },
+      "7e8864422b_Re-New-Hiring-Position": {
+        "content_hash": "e3a745f80983a84257084e1ddcabe84d",
+        "last_processed": "2025-07-24T09:44:01.904407",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\filtering_results\\final_results_7e8864422b_Re-New-Hiring-Position_20250724_094401.json",
+        "status": "completed"
+      },
+      "228d9ec206_software-developer": {
+        "content_hash": "a262b761e3dcfcb2381e8990f7f85dc3",
+        "last_processed": "2025-07-27T09:29:07.475053",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\228d9ec206_software-developer\\filtering_results\\final_results_228d9ec206_software-developer_20250727_092907.json",
+        "status": "completed"
+      },
+      "532bc03c3a_Re-hiring-data-engineer": {
+        "content_hash": "77e8c153487459d2068de6064857a155",
+        "last_processed": "2025-07-27T09:29:28.467512",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\532bc03c3a_Re-hiring-data-engineer\\filtering_results\\final_results_532bc03c3a_Re-hiring-data-engineer_20250727_092928.json",
+        "status": "completed"
+      },
+      "388202b780_Devops-engineer": {
+        "content_hash": "af2aeee4980442b811122c27e366cf44",
+        "last_processed": "2025-07-24T14:20:51.504474",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\388202b780_Devops-engineer\\filtering_results\\final_results_388202b780_Devops-engineer_20250724_142051.json",
+        "status": "completed"
+      },
+      "bbc59b842d_Cloud-engineer": {
+        "content_hash": "cf299647af9cd3836e0fd5dc6152c9ab",
+        "last_processed": "2025-07-27T09:30:02.904250",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\bbc59b842d_Cloud-engineer\\filtering_results\\final_results_bbc59b842d_Cloud-engineer_20250727_093002.json",
+        "status": "completed"
+      },
+      "f903fe248b_Re-hiring-ai-engineer": {
+        "content_hash": "064d9853373fcbfb5cef3b0c4a211b23",
+        "last_processed": "2025-07-27T09:30:18.644767",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\f903fe248b_Re-hiring-ai-engineer\\filtering_results\\final_results_f903fe248b_Re-hiring-ai-engineer_20250727_093018.json",
+        "status": "completed"
+      },
+      "2e85f66093_Data-Scientist": {
+        "content_hash": "b25a600b9686d80f4db149ad914eea44",
+        "last_processed": "2025-07-27T09:29:12.348817",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\2e85f66093_Data-Scientist\\filtering_results\\final_results_2e85f66093_Data-Scientist_20250727_092912.json",
+        "status": "completed"
+      },
+      "7b32bbee4e_Robotic-engineer": {
+        "content_hash": "77b21e800cd56a05a00b8b0b986da3db",
+        "last_processed": "2025-07-27T09:29:46.130357",
+        "results_file": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7b32bbee4e_Robotic-engineer\\filtering_results\\final_results_7b32bbee4e_Robotic-engineer_20250727_092946.json",
+        "status": "completed"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticket_info": {
+    "ticket_id": "74afd4b567",
+    "sender": "khanfardeen833@gmail.com",
+    "subject": "Re: Software Developer position",
+    "created_at": "2025-06-27T15:09:54",
+    "last_updated": "2025-06-27T15:12:43",
+    "status": "posted",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-06-27T15:12:43",
+    "approval_token": "SATnmAcJtCHVand3DHJMdXf5tOda4YTy",
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "March 15, 2025",
+    "employment_type": "Full-time",
+    "experience_required": "5-7 years",
+    "job_description": "We are looking for an experienced software developer to join our team. The ideal candidate will have strong programming skills and experience with modern web technologies.",
+    "job_title": "Senior Software Developer",
+    "location": "Pune, Maharashtra",
+    "required_skills": "Python, JavaScript, React, Node.js, MySQL, Git",
+    "salary_range": "INR 15-25 Lakhs per annum"
+  },
+  "saved_at": "2025-07-23T19:20:38.455755"
+}

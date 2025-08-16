@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "52c375e385",
+    "source": "chat",
+    "sender": "user_74d5c28f",
+    "user_id": "user_74d5c28f",
+    "subject": "Electronic Engineer",
+    "session_id": "dbfed354-b03d-436b-9daf-dd4bfa5801c4",
+    "created_at": "2025-07-27T11:03:30",
+    "last_updated": "2025-07-27T11:05:12",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-27T11:04:21",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "28-11-2025",
+    "employment_type": "Full-time",
+    "experience_required": "5-10",
+    "job_description": "An Electronics Engineer designs, develops, and tests electronic systems, devices, and components including circuits, semiconductors, microprocessors, and communication equipment. They work on everything from consumer electronics and medical devices to aerospace systems and telecommunications infrastructure, focusing on the electronic aspects of technology rather than electrical power systems.",
+    "job_title": "Electronic Engineer",
+    "location": "Sydney",
+    "required_skills": "Electronics Engineers require expertise in analog and digital circuit design, PCB layout, and component selection, along with proficiency in design tools like Altium Designer, KiCad, SPICE simulators, and programming languages such as C/C++, Python, and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing, debugging, and performance optimization, combined with knowledge of communication protocols, microcontroller programming, and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues, project management for meeting development timelines, and communication skills for technical documentation and cross-functional collaboration with software teams and product designers.",
+    "salary_range": "70k-120k"
+  },
+  "saved_at": "2025-08-13T11:00:38.720578"
+}

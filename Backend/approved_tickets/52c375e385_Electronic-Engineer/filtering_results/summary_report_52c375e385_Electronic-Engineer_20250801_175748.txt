@@ -1,0 +1,38 @@
+RESUME FILTERING SUMMARY REPORT
+======================================================================
+
+Job Ticket ID: 52c375e385_Electronic-Engineer
+Position: Electronic Engineer
+Report Generated: 2025-08-01T17:57:48.172191
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 5-10
+Skills: SPICE simulators, debugging, project management for meeting development timelines, and performance optimization, and communication skills for technical documentation and cross-functional collaboration with software teams and product designers., combined with knowledge of communication protocols, Electronics Engineers require expertise in analog and digital circuit design, and programming languages such as C/C++, along with proficiency in design tools like Altium Designer, microcontroller programming, and VHDL for embedded systems and firmware development. They need strong analytical skills for signal processing, KiCad, and testing equipment like oscilloscopes and spectrum analyzers. Essential soft skills include problem-solving abilities for troubleshooting complex electronic issues, Python, and component selection, PCB layout
+Location: Sydney
+Salary: 70k-120k
+Deadline: 28-11-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Processed: 6
+Final Selected: 5
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. ALEXANDER_MITCHELL_20250727_112623.pdf
+   Overall Score: 67.0%
+   Skill Match: 56.2% (9/16 skills)
+   Matched Skills: SPICE simulators, debugging, Electronics Engineers require expertise in analog and digital circuit design, and programming languages such as C/C++, microcontroller programming, KiCad, Python, and component selection, PCB layout
+   Experience: 6 years (Score: 100.0%)
+   Location Match: Yes
+   
+   PROFESSIONAL DEVELOPMENT:
+   Professional Development Score: 22.5%
+   Level: Basic - Limited professional development shown
+   Certifications: 2 found
+     Categories: devops, agile

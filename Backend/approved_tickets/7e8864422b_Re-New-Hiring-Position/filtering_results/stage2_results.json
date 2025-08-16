@@ -1,0 +1,560 @@
+{
+  "top_5_candidates": [
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Yahia__20250723_122029.pdf",
+      "filename": "Yahia__20250723_122029.pdf",
+      "final_score": 0.47550000000000003,
+      "skill_score": 0.8,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.009707665249353636,
+      "matched_skills": [
+        "PostgreSQL",
+        "Python",
+        "AWS",
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "sql"
+        ],
+        "Python": [
+          "python"
+        ],
+        "AWS": [
+          "aws"
+        ],
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cks",
+              "ceh",
+              "cka"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Python",
+          "AWS",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 1,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\Smith_20250723_123008.pdf",
+      "filename": "Smith_20250723_123008.pdf",
+      "final_score": 0.3600000000000001,
+      "skill_score": 0.8,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.2,
+      "similarity_score": 0.023491355699729887,
+      "matched_skills": [
+        "PostgreSQL",
+        "Python",
+        "AWS",
+        "Django"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "postgresql"
+        ],
+        "Python": [
+          "python"
+        ],
+        "AWS": [
+          "aws"
+        ],
+        "Django": [
+          "django"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.2,
+        "professional_development_level": "Basic - Limited professional development shown",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 1.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [
+              "github.com"
+            ],
+            "github_activity": null,
+            "open_source_activity": true
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": true,
+          "content_types": [
+            "open_source"
+          ],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Active content creator"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": false,
+        "leadership_experience": 2
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Python",
+          "AWS",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 2,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOE_20250723_123158.pdf",
+      "filename": "JOE_20250723_123158.pdf",
+      "final_score": 0.08000000000000002,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.04672126286913075,
+      "matched_skills": [
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 0,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Python",
+          "AWS",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 3,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\JOHN_20250723_122938.pdf",
+      "filename": "JOHN_20250723_122938.pdf",
+      "final_score": 0.08000000000000002,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.02219054234119928,
+      "matched_skills": [
+        "Docker"
+      ],
+      "detailed_skill_matches": {
+        "Docker": [
+          "docker"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Python",
+          "AWS",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 4,
+      "selection_reason": "Strong match for requirements"
+    },
+    {
+      "file_path": "C:\\Users\\Administrator\\Desktop\\HRMS\\Backend\\approved_tickets\\7e8864422b_Re-New-Hiring-Position\\YAYA_20250723_123037.pdf",
+      "filename": "YAYA_20250723_123037.pdf",
+      "final_score": 0.08000000000000002,
+      "skill_score": 0.2,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.011544127978497916,
+      "matched_skills": [
+        "PostgreSQL"
+      ],
+      "detailed_skill_matches": {
+        "PostgreSQL": [
+          "sql"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "Fullsatck engineer",
+        "required_skills": [
+          "PostgreSQL",
+          "Python",
+          "AWS",
+          "Docker",
+          "Django"
+        ],
+        "required_experience": "5-7 years",
+        "location": "Texas, United States"
+      },
+      "final_rank": 5,
+      "selection_reason": "Strong match for requirements"
+    }
+  ],
+  "detailed_analysis": "Based on the requirements for a Fullstack Engineer with 5-7 years of experience in PostgreSQL, Python, AWS, Docker, and Django, here are the rankings of the candidates:\n\n1. **Candidate 1 (Yahia)**\n   - Skills Matched: PostgreSQL, Python, AWS, Docker\n   - Missing Skill: Django\n   - Experience: 2 years\n   - Professional Development: Has 3 professional certifications\n   - Resume shows relevant experience in Data Engineering and Cloud platforms like AWS. While missing Django, the certifications and experience make this candidate a strong contender.\n\n2. **Candidate 2 (Smith)**\n   - Skills Matched: PostgreSQL, Python, AWS, Django\n   - Missing Skill: Docker\n   - Experience: 0 years\n   - Professional Development: Active content creator\n   - While missing Docker, the candidate has strong skills in PostgreSQL, Python, AWS, and Django. The active content creation also shows a commitment to continuous learning and development.\n\n3. **Candidate 5 (YAYA)**\n   - Skills Matched: PostgreSQL\n   - Missing Skills: Python, AWS, Docker, Django\n   - Experience: 0 years\n   - This candidate only matches PostgreSQL and lacks the other required skills. They do not have relevant experience or professional development highlights in the required technologies.\n\n4. **Candidate 3 (JOE)**\n   - Skills Matched: Docker\n   - Missing Skills: PostgreSQL, Python, AWS, Django\n   - Experience: 0 years\n   - This candidate lacks all the required skills for the Fullstack Engineer role and does not have any relevant experience or professional development in the specified technologies.\n\n5. **Candidate 4 (JOHN)**\n   - Skills Matched: Docker\n   - Missing Skills: PostgreSQL, Python, AWS, Django\n   - Experience: 0 years\n   - Similar to Candidate 3, this candidate lacks the necessary skills and experience for the Fullstack Engineer role in PostgreSQL, Python, AWS, Docker, and Django.\n\nBased on the rankings, Candidate 1 (Yahia) and Candidate 2 (Smith) are the top candidates for the Fullstack Engineer position, with Candidate 1 slightly edging out due to having relevant experience and certifications.",
+  "selection_criteria": "Based on job requirements and professional development",
+  "requirements_version": "2025-07-23T19:20:38.468766"
+}

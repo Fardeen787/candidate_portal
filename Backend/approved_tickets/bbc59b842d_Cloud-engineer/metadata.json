@@ -1,0 +1,55 @@
+{
+  "ticket_id": "bbc59b842d",
+  "created_at": "2025-07-24T16:02:32.719500",
+  "folder_name": "bbc59b842d_Cloud-engineer",
+  "resumes": [
+    {
+      "filename": "rohit_20250724_160232.pdf",
+      "original_filename": "aana-1749893161572.pdf",
+      "uploaded_at": "2025-07-24T16:02:32.752257",
+      "applicant_name": "rohit",
+      "applicant_email": "fdasfaf",
+      "file_size": 167827
+    },
+    {
+      "filename": "khan_20250724_160246.pdf",
+      "original_filename": "fardeen-khan-1749910453789.pdf",
+      "uploaded_at": "2025-07-24T16:02:46.312389",
+      "applicant_name": "khan",
+      "applicant_email": "3122132",
+      "file_size": 44450
+    },
+    {
+      "filename": "shubaham_20250724_160313.pdf",
+      "original_filename": "fullstack_cv_1.pdf",
+      "uploaded_at": "2025-07-24T16:03:13.680934",
+      "applicant_name": "shubaham",
+      "applicant_email": "dadsfddf",
+      "file_size": 1652
+    },
+    {
+      "filename": "sahil_20250724_160348.pdf",
+      "original_filename": "fullstack_cv_2.pdf",
+      "uploaded_at": "2025-07-24T16:03:48.720314",
+      "applicant_name": "sahil",
+      "applicant_email": "adfadsfads",
+      "file_size": 1657
+    },
+    {
+      "filename": "Fardeen_Khan_20250813_165849.pdf",
+      "original_filename": "Mark_RING.pdf",
+      "uploaded_at": "2025-08-13T16:58:49.025816",
+      "applicant_name": "Fardeen Khan",
+      "applicant_email": "khanfardeen833@gmail.com",
+      "file_size": 299456
+    },
+    {
+      "filename": "Fardeen_Khan_20250813_170616.pdf",
+      "original_filename": "RAJESH_KUMAR_SHARMA.pdf",
+      "uploaded_at": "2025-08-13T17:06:16.638494",
+      "applicant_name": "Fardeen Khan",
+      "applicant_email": "khanfardeen833@gmail.com",
+      "file_size": 298763
+    }
+  ]
+}
